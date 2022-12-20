@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I’m Sandeep Nagar, a PhD student at [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT Hyderabad](https://www.iiit.ac.in/). I’m an interpretive social scientist by training with a background in the humanities, but I have just enough expertise in computer science and data science to make trouble. My research, teaching, and broader service are all grounded in the idea that science and technology are inherently social activities, which are directed, operated, and maintained in certain ways (and not in other ways), by people in and outside of institutions.
+Hi! I’m Sandeep Nagar, a final year PhD student at [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT Hyderabad](https://www.iiit.ac.in/). I’m an interpretive social scientist by training with a background in the humanities, but I have just enough expertise in computer science and data science to make trouble. My research, teaching, and broader service are all grounded in the idea that science and technology are inherently social activities, which are directed, operated, and maintained in certain ways (and not in other ways), by people in and outside of institutions.
 
 ## My work and research
 I am interested in working on Machine Learning (Generative models), Computer Vision including AI for Science. 
