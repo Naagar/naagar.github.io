@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I’m Sandeep Nagar, a final year PhD student at [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT Hyderabad](https://www.iiit.ac.in/). I’m an interpretive social scientist by training with a background in the humanities, but I have just enough expertise in computer science and data science to make trouble. My research, teaching, and broader service are all grounded in the idea that science and technology are inherently social activities, which are directed, operated, and maintained in certain ways (and not in other ways), by people in and outside of institutions.
+Hi! I’m Sandeep Nagar, a final year PhD student at [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT Hyderabad](https://www.iiit.ac.in/). I was a Research Intern at Computer Vision and Robotics Laboratory, University of Illinois at Urbana-Champaign (UIUC) Champaign, IL, under the guidance of prof. Narendra Ahuja in collaboration with Dr David Beiser and Dr David Chestekat at College of Medicine at University of Illinois Chicago. I also did a research internship at School of Mathematics and Statistics, University of New South Wales (UNSW) Sydney, Australia, under the guidance of Prof Rohitash Chandra and Dr. Ehsan Farahbakhsh in collaberation with School of Geosciences, The University of Sydney, Australia.
 
 ## My work and research
 I am interested in working on Machine Learning (Generative models), Computer Vision including AI for Science. 
