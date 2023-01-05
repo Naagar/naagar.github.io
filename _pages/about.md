@@ -11,11 +11,11 @@ redirect_from:
 {% include base_path %}
 
 Hi! I’m Sandeep Nagar, a final year PhD student at [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT Hyderabad](https://www.iiit.ac.in/). I was a Research Intern at Computer Vision and Robotics Laboratory, University of Illinois at Urbana-Champaign (UIUC) Champaign, IL, under the guidance of prof. [Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja) in collaboration with [Dr David Beiser](https://www.uchicagomedicine.org/find-a-physician/physician/david-beiser) at [College of Medicine at University of Illinois Chicago](https://www.uchicagomedicine.org/). I also did a research internship at School of Mathematics and Statistics, University of New South Wales (UNSW) Sydney, Australia, under the guidance of Prof [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh in collaberation with School of Geosciences, The University of Sydney, Australia. Before joining PhD, I did my undergrad from the Computer Science Engineering Department of [Harcourt Butler Technical University, Kanpur, India](http://www.hbti.ac.in/).
-##  [CV](https://drive.google.com/file/d/1FnQi-tNJ9IWwpk2hwgQgv8E-t9FPp4SA/view)
-##  [Personal website]()
-##  [Twitter](https://twitter.com/NaagarRN)
-##  [Google Scholar](https://scholar.google.com/citations?user=MQQy_T4AAAAJ&hl=en&authuser=1)
-##  [LinkedIn](https://www.linkedin.com/in/sandeepnaagar/)
+###  [CV](https://drive.google.com/file/d/1FnQi-tNJ9IWwpk2hwgQgv8E-t9FPp4SA/view)
+###  [Personal website]()
+###  [Twitter](https://twitter.com/NaagarRN)
+###  [Google Scholar](https://scholar.google.com/citations?user=MQQy_T4AAAAJ&hl=en&authuser=1)
+###  [LinkedIn](https://www.linkedin.com/in/sandeepnaagar/)
 
 ## My work and research
 I am interested in working on Machine Learning (Generative models), Computer Vision including AI for Science. 
