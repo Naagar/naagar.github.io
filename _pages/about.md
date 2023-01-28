@@ -19,7 +19,8 @@ Throughout my studies, I have had the opportunity to work with a range of data s
 In addition to my research, I am also passionate about sharing my knowledge and experience with others. Whether through teaching, mentoring, or public speaking, I strive to inspire and engage others in the exciting world of machine learning and artificial intelligence. 
 
 ####  [CV](https://drive.google.com/file/d/1FnQi-tNJ9IWwpk2hwgQgv8E-t9FPp4SA/view)
-####  [Personal website]()
+####  [Personal website](https://researchweb.iiit.ac.in/~sandeep.nagar/)
+#### [GitHub](https://github.com/Naagar)
 ####  [Twitter](https://twitter.com/NaagarRN)
 ####  [Google Scholar](https://scholar.google.com/citations?user=MQQy_T4AAAAJ&hl=en&authuser=1)
 ####  [LinkedIn](https://www.linkedin.com/in/sandeepnaagar/)
