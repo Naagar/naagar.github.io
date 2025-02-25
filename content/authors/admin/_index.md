@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Sandeep Nagar
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Sandeep Naagar
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sandeep
+last_name: Nagar
 
 # Status emoji
 status:
@@ -31,53 +31,43 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sandeep.nagar@research.iiit.ac.in'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/NaagarRN
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/srn_naagar
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Naagar
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/sandeepnaagar
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=MQQy_T4AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-4360-8011
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Probabilistic Generative Models
+  - Theoritical Machine Learning
+  - Computer Vision
+  - AI4Health,Science
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Computer Science
+    institution: IIIT-Hyderabad, India
+    date_start: 2018-08-01
+    date_end: 2020-06-15
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Fast & Efficient Normalizing Flowsand Applications of Image Generative Models_. Supervised by [Prof Girish Varma](https://girishvarma.in). 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://researchweb.iiit.ac.in/~sandeep.nagar'
+  - area: BTech in Computer Science & Engineering
+    institution: Harcourt Butler Techological University - Kanpur, India
+    date_start: 2013-08-01
+    date_end: 2020-05-15
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      # GPA: 3.4/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -183,4 +173,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am a final year PhD student under the guidance of prof. Girish Varma at Machine Learning Lab, IIIT-Hyderabad, India. Previously, I have completed research internships at Computer Vision and Robotics Laboratory, University of Illinois, under the guidance of prof. Narendra Ahuja in collaboration with Dr David Beiser and Dr David Chestekat at College of Medicine at University of Illinois Chicago . I have also completed a research internship at School of Mathematics and Statistics, University of New South Wales Sydney, under the guidance of Prof Rohitash Chandra and Dr. Ehsan Farahbakhsh in collaberation with School of Geosciences, The University of Sydney, Australia.
+
+I hold a BTech degree in Computer Science Engineering from Harcourt Butler Technical University, Kanpur, India. I am from Greater Noida, India. I am passionate about creating and building ML ideas. My main research interests include Computer Vision, Robotics, Theoretical Machine Learning, and Deep Learning.
+
+I also read novels, find a list of interesting books here. Sometimes I ramble through the neural net of my brain about random thoughts, for preview click here.
