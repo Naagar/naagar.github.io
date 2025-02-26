@@ -134,11 +134,12 @@ skills:
       - name: Piano
         description: ''
         percent: 70
-        icon: image.png
+        icon: music
       - name: Novels
-        description: ''
+        description: 'Scifi, History'
         url: https://www.goodreads.com/review/list/48728408-sandeep-nagar?ref=nav_mybooks
         percent: 50
+        icon: book
         
 
 languages:
