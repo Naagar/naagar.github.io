@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Final year PhD Student 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: IIIT-Hyderabad
+    url: https://iiit.ac.in/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/Naagar
   - icon: brands/linkedin
-    url: https://www.linkedin.com/sandeepnaagar
+    url: https://www.linkedin.com/in/sandeepnaagar/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=MQQy_T4AAAAJ
   - icon: academicons/orcid
