@@ -61,7 +61,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: [here](https://naagar.github.io/project_page_stackedAE4Geo/)
+# slides: [here](https://naagar.github.io/project_page_stackedAE4Geo/)
 ---
 
 {{% callout note %}}
