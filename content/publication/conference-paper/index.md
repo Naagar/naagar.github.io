@@ -67,7 +67,6 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
   - Inverse-Flow
-
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
