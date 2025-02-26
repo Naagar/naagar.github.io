@@ -1,31 +1,31 @@
 ---
-title: Example Talk
+title: Inverse-Flow
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: AISTATS'25
+event_url: https://aistats.org/aistats2025/
 
-location: Hugo Blox Builder HQ
+location: Splash Beach Resort
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 65 4894+7PV
+  city: Mai Khao
+  region: Phuket
+  postcode: '83110'
+  country: Thailand
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Parallel Backpropagation for Inverse of a Convolution with Application to Normalizing Flows.
+abstract: 'The inverse of an invertible convolution is an important operation that comes up in Normalizing Flows, Image Deblurring, etc. The naive algorithm for backpropagation of this operation using Gaussian elimination has running time O(n3) where n is the number of pixels in the image. We give a fast parallel backpropagation algorithm with running time O(√n) for a square image and provide a GPU implementation of the same. Inverse of Convolutions are usually used in Normalizing Flows in the sampling pass, making them slow. We propose to use the Inverse of Convolutions in the forward (image to latent vector) pass of the Normalizing flow. Since the sampling pass is the inverse of the forward pass, it will use convolutions only, resulting in efficient sampling times. We use our parallel backpropagation algorithm for optimizing the inverse of convolution layer resulting in fast training times also. We implement this approach in various Normalizing Flow backbones, resulting in our Inverse- Flow models. We benchmark Inverse-Flow on standard datasets and show significantly improved sampling times with similar bits per dimension compared to previous models.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-05-03T13:00:00Z'
+date_end: '2025-05-04T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-01-21T00:00:00Z'
 
 authors:
-  - admin
+  - Sandeep Nagar
 
 tags: []
 
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://naagar.github.io/projectPage_InverseFlow/static/images/multiScale_if_flow.jpg)'
   focal_point: Right
 
 #links:
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_code: 'https://github.com/girish-lab/Inverse-Flow'
+url_pdf: 'https://arxiv.org/pdf/2410.14634.pdf'
+url_slides: 'https://naagar.github.io/projectPage_InverseFlow/'
+url_video: 'https://naagar.github.io/projectPage_InverseFlow/'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -59,7 +59,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - example
+  - Inverse-Flow
 ---
 
 {{% callout note %}}

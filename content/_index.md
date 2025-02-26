@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Primarily focuses on generative models, with a particular emphasis on probabilistic generative models, normalizing flows, and their theoretical foundations. My research work spans developing fast and efficient invertible convolutional networks for generative modeling, exploring applications in diverse domains such as molecular design, image generation, and medical imaging. I am interested in creating interpretable and computationally efficient machine learning models that can learn complex data distributions, with a strong theoretical grounding in probabilistic methods. My research aims to advance the understanding and practical implementation of generative models, bridging theoretical innovations with real-world applications across computer vision, healthcare, and scientific domains.
         
-        Please reach out to collaborate 😃
+        Please reach out to collaborate on AI4Health and Science 😃.
     design:
       columns: '1'
   - block: collection
