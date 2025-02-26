@@ -58,7 +58,10 @@ education:
     date_start: 2018-08-01
     date_end: 2025-06-15
     summary: |
-      Thesis on _Fast & Efficient Normalizing Flowsand Applications of Image Generative Models_. Supervised by [Prof Girish Varma](https://girishvarma.in). 
+      - Thesis on _Fast \& Efficient Normalizing Flows and Applications of Image Generative Models_. Supervised by [Prof Girish Varma](https://girishvarma.in).
+      - Courses:  Advanced Mathematics Structure, Probabilistic Graphical Models, 
+        Statistical Methods in Artificial Intelligence, Adv. Robotics: Path Planning and Control, 
+        Mobile Robotics: Mechanism and Control, Computer Vision: Digital Image Processing.
     button:
       text: 'Read Thesis'
       url: 'https://researchweb.iiit.ac.in/~sandeep.nagar'
@@ -71,7 +74,7 @@ education:
       - AI, Machine language (MIPS), Databases, Algorithm, Compiler.
       - Computer Programming, Computer Network, Computer Architecture, Operating System.
       - Compiler Design, Complexity Theory, Theory of Automata \& Formal Languages.
-      - Programming in C, Python, Java,, Digital Design, Probability and Statistic.
+      - Programming in C, Python, Java, Digital Design, Probability and Statistic.
       - Linear algebra, Discrete Mathematics, Probability and Statistics .
 work:
   - position: Instructor
@@ -111,7 +114,7 @@ skills:
       - name: Pytorch
         description: ''
         percent: 90
-        icon: chart-bar
+        icon: code-bracket
       - name: C++
         description: ''
         percent: 70
@@ -131,7 +134,7 @@ skills:
       - name: Piano
         description: ''
         percent: 70
-        
+        icon: image.png
       - name: Novels
         description: ''
         url: https://www.goodreads.com/review/list/48728408-sandeep-nagar?ref=nav_mybooks
