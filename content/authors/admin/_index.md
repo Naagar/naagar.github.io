@@ -158,7 +158,7 @@ awards:
       ACM India-IARCS travel grants are intended for work directly related to computing science.
   - title: Won 1st Place in NVIDIA Competitions, ICETCI 2023
     url: https://ietcint.com/Ietcint2023/competitions
-    date: '2023-08'
+    date: '2023-08-15'
     awarder: NVIDIA
     # icon: edx
     summary: |
