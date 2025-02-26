@@ -171,7 +171,7 @@ awards:
   - title: Awarded one year iHub-Data PhD Fellowship
     url: https://ihub-data.iiit.ac.in/index.html
     # certificate_url: https://www.datacamp.com
-    date: '2023-08'
+    date: '2023-08-01'
     awarder: iHub-IIITH
     # icon: datacamp
     summary: |
