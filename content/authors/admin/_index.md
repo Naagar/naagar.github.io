@@ -171,7 +171,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## About Me (Note:update in progress, visit researchweb.iiit.ac.in/~sandeep.nagar)
 
 Hi! I am a final year PhD student under the guidance of prof. Girish Varma at Machine Learning Lab, IIIT-Hyderabad, India. Previously, I have completed research internships at Computer Vision and Robotics Laboratory, University of Illinois, under the guidance of prof. Narendra Ahuja in collaboration with Dr David Beiser and Dr David Chestekat at College of Medicine at University of Illinois Chicago . I have also completed a research internship at School of Mathematics and Statistics, University of New South Wales Sydney, under the guidance of Prof Rohitash Chandra and Dr. Ehsan Farahbakhsh in collaberation with School of Geosciences, The University of Sydney, Australia.
 
