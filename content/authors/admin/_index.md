@@ -3,7 +3,7 @@
 title: Sandeep Nagar
 
 # Name pronunciation (optional)
-name_pronunciation: Sandeep Naagar
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Sandeep
