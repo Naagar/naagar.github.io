@@ -1,6 +1,6 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
+title: Inverse-Flow
+summary: Find all about inverse flow work
 date: 2023-10-25
 authors:
   - admin

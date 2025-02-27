@@ -1,7 +1,22 @@
 ---
+title: "Provate IDD: "
+authors: 
+  - Sandeep Nagar
+  - Siya P
+  - Girish Varma 
+
+date: "2025-05-07T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2025-05-01T00:00:00Z"
+
+---
+
+---
 title: "Ongoing Project: Sparce Blind Deconvolution"
 authors:
-- admin
+- Sandeep Nagar
 date: "2025-05-07T00:00:00Z"
 doi: ""
 

@@ -35,8 +35,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/NaagarRN
-  - icon: brands/instagram
-    url: https://www.instagram.com/srn_naagar
+  # - icon: brands/instagram
+    # url: https://www.instagram.com/srn_naagar
   - icon: brands/github
     url: https://github.com/Naagar
   - icon: brands/linkedin
@@ -58,7 +58,8 @@ education:
     date_start: 2018-08-01
     date_end: 2025-06-15
     summary: |
-      - Thesis on _Fast \& Efficient Normalizing Flows and Applications of Image Generative Models_. Supervised by [Prof Girish Varma](https://girishvarma.in).
+      - Thesis on _Fast \& Efficient Normalizing Flows and Applications of Image Generative Models_
+      - Supervised by [Prof Girish Varma](https://girishvarma.in).
       - Courses:  Advanced Mathematics Structure, Probabilistic Graphical Models, 
         Statistical Methods in Artificial Intelligence, Adv. Robotics: Path Planning and Control, 
         Mobile Robotics: Mechanism and Control, Computer Vision: Digital Image Processing.
@@ -87,7 +88,41 @@ work:
       Responsibilities include:
       - M24 CS0.101 Computer Programming:
       - Responsibilities: delivering lectures, developing course material and tutorials, conducting lab sessions, office hours,
-      - Advising and mentoring, guiding, and course auto-grading platform. Course webpage: http://cpro-iiit.github.io/
+      - Advising and mentoring, guiding, and course auto-grading platform.
+      - Course webpage: http://cpro-iiit.github.io/
+  - position: Research Intern
+    company_name: Samsung R & D Institute - Bangalore
+    company_url: 'http://cpro-iiit.github.io/'
+    company_logo: 'iiit_logo'
+    date_start: 2023-08-18
+    date_end: '2024-01-12'
+    summary: |2-
+      Mentor: Dr. [Dendi Sathya Veera Reddy](), [Dr. Pravin Nair](https://www.ee.iitm.ac.in/faculty/profile/pravinnair)
+      - Manager: Mr Rajnarayan Gadde
+      - Project: Image Super-resolution using Diffusion Models
+      - Paper-: Affine-StableSR: Coupling Layer based Lightweight-Autoencoder and Stable Diffusion Model for Image Super-Resolution 
+  - position: Research Intern
+    company_name: School of Mathematics and Statistics, University of New South Wales
+    company_url: 'https://www.unsw.edu.au/science/our-schools/maths'
+    company_logo: 'iiit_logo'
+    date_start: 2021-11-01
+    date_end: '2022-02-15'
+    summary: |2-
+      Advisor: Dr. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra), 
+      - Collabrator: Dr. Ehsan Farabaksh, University of Sydney
+      - Project: Autoencoder for Geochemical Anomalies Detection and Lithological Mapping.
+      - Journal: [Remote Sensing Framework for Lithological Mapping via Stacked Autoencoders and Clustering](https://doi.org/10.1016/j.asr.2024.09.013).
+  - position: Research Intern
+    company_name: Computer Vision and Robotics Lab, University of Illinois Urbana-Champaign Champaign
+    company_url: 'https://www.unsw.edu.au/science/our-schools/maths'
+    company_logo: 'iiit_logo'
+    date_start: 2021-06-01
+    date_end: '2021-10-15'
+    summary: |2-
+      Advisor: Dr. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra), 
+      - Collabrator: Dr. Ehsan Farabaksh, University of Sydney
+      - Project: Autoencoder for Geochemical Anomalies Detection and Lithological Mapping.
+      - Journal: [Remote Sensing Framework for Lithological Mapping via Stacked Autoencoders and Clustering](https://doi.org/10.1016/j.asr.2024.09.013).
   - position: Associate Mentor,
     company_name: TalentSprint
     company_url: 'https://talentsprint.com/'
@@ -134,12 +169,12 @@ skills:
       - name: Piano
         description: ''
         percent: 70
-        icon: music
+        # icon: music
       - name: Novels
         description: 'Scifi, History'
         url: https://www.goodreads.com/review/list/48728408-sandeep-nagar?ref=nav_mybooks
         percent: 50
-        icon: book
+        # icon: book
         
 
 languages:
@@ -188,4 +223,4 @@ Hi! I am a final year PhD student under the guidance of [Prof. Girish Varma](htt
 
 I hold a Btech degree in Computer Science \& Engineering from [Harcourt Butler Technical University - Kanpur](https://hbtu.ac.in/), India. I am from Greater Noida, India. I am passionate about creating and building ML ideas. My main research interests include Computer Vision, Probabilistic Generative Models, Theoretical Machine Learning, and Deep Learning.
 
-I also read novels, find a list of interesting books here [Goodread](https://www.goodreads.com/review/list/48728408-sandeep-nagar?ref=nav_mybooks).
+I’m also an avid reader! Check out my collection of intriguing novels over on [Goodread](https://www.goodreads.com/review/list/48728408-sandeep-nagar?ref=nav_mybooks).
