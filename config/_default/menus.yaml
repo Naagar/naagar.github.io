@@ -16,9 +16,9 @@ main:
   - name: Papers
     url: /#papers
     weight: 13
-  - name: Talks
-    url: /#talks
-    weight: 14
-  - name: Projects
-    url: projects/
-    weight: 15
+  # - name: Talks
+  #   url: /#talks
+  #   weight: 14
+  # - name: Projects
+  #   url: projects/
+  #   weight: 15

@@ -100,7 +100,28 @@ work:
       Mentor: Dr. [Dendi Sathya Veera Reddy](), [Dr. Pravin Nair](https://www.ee.iitm.ac.in/faculty/profile/pravinnair)
       - Manager: Mr Rajnarayan Gadde
       - Project: Image Super-resolution using Diffusion Models
-      - Paper-: Affine-StableSR: Coupling Layer based Lightweight-Autoencoder and Stable Diffusion Model for Image Super-Resolution 
+      - Paper-: Affine-StableSR: Coupling Layer based Lightweight-Autoencoder and Stable Diffusion Model for Image Super-Resolution.
+  - position: Research Assistant
+    company_name: Dept. of Ophthalmology and Genomic Medicine, University of Leicester, UK.
+    company_url: 'https://devalab.in/'
+    company_logo: 'iiit_logo'
+    date_start: 2022-08-01
+    date_end: '2023-07-15'
+    summary: |2-
+      Supervisor: [Dr Mervyn G Thomas](https://le.ac.uk/people/mervyn-thomas)
+      - Project: Machine learning-based classification of foveal development.
+      - Detection of fovea maturity using optical coherence tomography and machine learning.
+  - position: Research Assistant
+    company_name: Deva Lab, IIIT-Hyderabad
+    company_url: 'https://devalab.in/'
+    company_logo: 'iiit_logo'
+    date_start: 2022-03-01
+    date_end: '2022-07-15'
+    summary: |2-
+      Advisor: Prof. [U. Deva Priyakumar](https://devalab.in/), 
+      - Project: Generative models for de novo 3D molecule generation.
+      - Designing a normalizing flow-based deep learning model that learns the energy function from data in an end-to-end
+        fashion by generating energetically favorable molecular conformations that are more likely to be observed experimentally.
   - position: Research Intern
     company_name: School of Mathematics and Statistics, University of New South Wales
     company_url: 'https://www.unsw.edu.au/science/our-schools/maths'
@@ -114,28 +135,44 @@ work:
       - Journal: [Remote Sensing Framework for Lithological Mapping via Stacked Autoencoders and Clustering](https://doi.org/10.1016/j.asr.2024.09.013).
   - position: Research Intern
     company_name: Computer Vision and Robotics Lab, University of Illinois Urbana-Champaign Champaign
-    company_url: 'https://www.unsw.edu.au/science/our-schools/maths'
+    company_url: 'https://vision.ai.illinois.edu/'
     company_logo: 'iiit_logo'
     date_start: 2021-06-01
     date_end: '2021-10-15'
     summary: |2-
-      Advisor: Dr. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra), 
-      - Collabrator: Dr. Ehsan Farabaksh, University of Sydney
-      - Project: Autoencoder for Geochemical Anomalies Detection and Lithological Mapping.
-      - Journal: [Remote Sensing Framework for Lithological Mapping via Stacked Autoencoders and Clustering](https://doi.org/10.1016/j.asr.2024.09.013).
-  - position: Associate Mentor,
-    company_name: TalentSprint
-    company_url: 'https://talentsprint.com/'
+      Advisor: Dr. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr David Beiser, College of Medicine at UIChicago and Dr David Chestekat, UIUC
+      - Project: Remote Sensing of Physiological Measurements Using Camera.
+      - Paper: R2I-rPPG: Robust Region of Interest Selection for the Remote PPG.
+  - position: Research Assistant
+    company_name: Machine Learning Lab, IIIT-Hyderabad
+    company_url: 'https://mll.iiit.ac.in/'
+    company_logo: 'iiit_logo'
+    date_start: 2019-06-01
+    date_end: '2021-02-15'
+    summary: |2-
+      Advisor: Dr. [Girish Varma](https://girishvarma.in), 
+      - i.) Fast and efficient normalizing flow models and designing an invertible convolutional deep network to learn and
+      generate fake images. 
+      - ii.) Designing a flow for the corn seed’s automatic labeling and classification using generative
+      models and active learning. 
+      - iii.) Panoptic Segmentation Models for the India Driving Dataset. 
+      - iv.) Conn seed image dataset for advancement in food and agriculture development, -details, code link
+  - position: Teaching Assistant,
+    company_name: IIIt-Hyderabad
+    company_url: 'https://iiit.ac.in/'
     company_logo: 'https://static.talentsprint.com/ts_drupal/talentsprint/images/logo.webp'
-    date_start: 2021-09-01
-    date_end: 2024-07-31
-    summary: |
-      - PG Certification Program for Mid-to-Senior Tech Professionals
-      - Responsibilities: delivering lectures, guiding hands-on
-        group projects, mentoring lab sessions, tutorials, walk-through sessions, hackathons, and mentoring capstone projects.
-        Courses: i) Advanced Certification Course in Computational Data Science, IISc Bangalore, 2023, 2024. ii) Advanced
-        Certification Course in AI and MLOps, IISc Bangalore, 2023. iii) Certification Course in Artificial Intelligence and
-        Machine Learning, IIIT-Hyderabad, 2022, 2021.
+    date_start: 2019-01-01
+    date_end: 2023-05-31
+    summary: |2-
+      Course:
+      - Linear Algebra, Instructor: Prof Chittaranjan Hens and Prof Siddhartha Das, Spring-23
+      - Computer Programming, Instructor: Dr. S Chakraborty, Dr. Varma, and Dr A. Deshpande, Monsoon-22
+      - Math for CS: Linear Algebra, Instructor: Prof Girish Varma, Monsoon-22
+      - Maths for CS: Probability and Statistics, Instructor: Prof Girish Varma, Monsoon-21
+      - Linear Algebra, Instructor: Prof Girish Varma, Spring-21
+      - Probability and Statistics, Instructor: Prof Pawan Kumar, Monsoon-20
+      - Probability and Statistics, Instructor: Prof Girish Varma, Monsoon-19
+      - Computer Network, Instructor: Prof Shatrunjay Rawat, Spring-19
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
