@@ -251,13 +251,54 @@ awards:
     awarder: iHub-IIITH
     # icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Project Proposal: Fast \& Efficient Normalizing Flows and Applications of Image Generative Models.
+      The iHub-Data PhD Fellowship is a one-year fellowship program that provides financial support to PhD students working on data science and AI research projects. The fellowship is designed to support students in the final stages of their PhD research, helping them to complete their work and prepare for their future careers in academia or industry.
 ---
 
-## About Me (Note:update in progress, visit researchweb.iiit.ac.in/~sandeep.nagar)
+## About Me
 
-Hi! I am a final year PhD student under the guidance of [Prof. Girish Varma](https://girishvarma.in/) at [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT-Hyderabad](https://iiit.ac.in/), India. Previously, I have completed research internships at [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois, under the guidance of Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr David Beiser and Dr David Chestekat at College of Medicine at University of Illinois Chicago . I have also completed a research internship at School of Mathematics and Statistics, University of New South Wales Sydney, under the guidance of Prof. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh in collaberation with School of Geosciences, The University of Sydney, Australia.
+Hi!  I am a final year PhD student under the guidance of [Prof. Girish Varma](https://girishvarma.in/) at [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT-Hyderabad](https://iiit.ac.in/), India. Previously, I have completed research internships at [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois, under the guidance of Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr David Beiser and Dr David Chestekat at College of Medicine at University of Illinois Chicago . I have also completed a research internship at School of Mathematics and Statistics, University of New South Wales Sydney, under the guidance of Prof. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh in collaberation with School of Geosciences, The University of Sydney, Australia.
 
 I hold a Btech degree in Computer Science \& Engineering from [Harcourt Butler Technical University - Kanpur](https://hbtu.ac.in/), India. I am from Greater Noida, India. I am passionate about creating and building ML ideas. My main research interests include Computer Vision, Probabilistic Generative Models, Theoretical Machine Learning, and Deep Learning.
 
 I’m also an avid reader! Check out my collection of intriguing novels over on [Goodread](https://www.goodreads.com/review/list/48728408-sandeep-nagar?ref=nav_mybooks).
+
+
+## News and Updates
+- 02-2025, Awarded [ACM India-IARCS](https://www.iarcs.org.in/activities/grants.php) travel grant for attending AISTAT`2025.
+        
+- 01-2025, [Inverse-Flow](https://arxiv.org/abs/2410.14634) accepted at [AISTAT`2025](https://aistats.org/aistats2025/index.html).
+
+- 10-2024, Pre-print [R2I-rPPG](https://arxiv.org/abs/2410.15851): Heart-rate extraction from Video.
+
+- 09-2024, Paper accepted at ICPR`24, [Competition on Safe Segmentation](https://mobility.iiit.ac.in/safe-seg-24/index.html).
+
+- 06-2024, I will be attanding [Climate Change AI Summer School 2024](https://www.climatechange.ai/events/summer_school2024).
+
+- 04-2024, We are organizing a [Comptetion on Safe Segmentation](https://mobility.iiit.ac.in/safe-seg-24/index.html) at ICPR`24.
+
+- 02-2024, Selected for [Oxford Machine Learning Summer School 2024](https://www.oxfordml.school/).
+
+- 01-2024, Selected for Research Internship , [Sony Research India, Bangalore](https://www.sonyresearchindia.com/).
+
+- 09-2023, '[Adaptation of  SR SOTA for Art Restoration](https://ieeexplore.ieee.org/abstract/document/10331102)'  accepted at [IEEE ICETCI`23](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
+
+- 08-2023, Secured 1st Place in NVIDIA Competitions, ICETCI`2023.
+
+- 08-2023, Awarded one year iHub-Data PhD Fellowship.
+
+- 07-2023, I will interning at [Samsung R&D Institute-Bangalore](https://research.samsung.com/sri-b).
+
+- 06-2023, Secured 1st place at [C4MTS CHALLENGE](https://cvit.iiit.ac.in/ncvpripg2023/c4mtschallenge/#awards), [NCVPRIPG 2023](https://events.iitj.ac.in/ncvpripg2023/), [IIT Jodhpur](https://www.iitj.ac.in/).
+
+- 03-2023, Won Cash Prize Hackathon, ML4Science 2023 , GitHub repo link.
+
+- 03-2023, Selected for [Oxford Machine Learning Summer School 2024](https://www.oxfordml.school/).
+
+- 01-2023, Selected for [Research Week with Google 2023](https://sites.google.com/view/researchweek2023/home).
+
+- 02-2023, Talk: "Flow models for 3D molecular generation" at ML4Science 2023.
+
+- 02-2023, [FInC Flow](https://arxiv.org/abs/2301.09266) accepted at [VISAPP`23](https://www.scitepress.org/ProceedingsDetails.aspx?ID=trRHWXl/Y5o=&t=1) with oral presentations.
+
+- 02-2022, Awarded one year [iHub-Data MS Fellowship](https://ihub-data.iiit.ac.in/index.html)

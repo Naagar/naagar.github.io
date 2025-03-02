@@ -37,69 +37,72 @@ sections:
       text: |-
         Primarily focuses on generative models, with a particular emphasis on probabilistic generative models, normalizing flows, and their theoretical foundations. My research work spans developing fast and efficient invertible convolutional networks for generative modeling, exploring applications in diverse domains such as molecular design, image generation, and medical imaging. I am interested in creating interpretable and computationally efficient machine learning models that can learn complex data distributions, with a strong theoretical grounding in probabilistic methods. My research aims to advance the understanding and practical implementation of generative models, bridging theoretical innovations with real-world applications across computer vision, healthcare, and scientific domains.
         
-        Please reach out to collaborate on AI4Health and Science 😃.
+        Please reach out to collaborate on AI4Health and Science.
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title:  News and Updates
+  #     subtitle: ''
+  #     text: ''
+      
+        
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 15
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
   - block: collection
     content:
       title: Recent Publications
-      text: ""
+      text: "Selected papers below, For all papers visit [Google Scholar, click here](https://scholar.google.com/citations?user=MQQy_T4AAAAJ)."
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
+  
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
