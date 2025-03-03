@@ -214,11 +214,11 @@ skills:
         # icon: book
         
 
-languages:
-  - name: English
-    percent: 100
-  - name: Hindi
-    percent: 100
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Hindi
+#     percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -281,7 +281,7 @@ I’m also an avid reader! Check out my collection of intriguing novels over on 
 
 <!-- - 01-2024, Selected for Research Internship , [Sony Research India, Bangalore](https://www.sonyresearchindia.com/). -->
 
-- 09-2023, '[Adaptation of  SR SOTA for Art Restoration](https://ieeexplore.ieee.org/abstract/document/10331102)'  accepted at [IEEE ICETCI`23](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
+- 09-2023, '[SR SOTA for Art Restoration](https://ieeexplore.ieee.org/abstract/document/10331102)'  accepted at [IEEE ICETCI`23](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
 
 - 08-2023, Secured 1st Place in [NVIDIA Competitions](https://ietcint.com/user/competitions), [ICETCI`2023](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
 
@@ -289,7 +289,7 @@ I’m also an avid reader! Check out my collection of intriguing novels over on 
 
 - 07-2023, I will interning at [Samsung R&D Institute-Bangalore](https://research.samsung.com/sri-b).
 
-- 06-2023, Secured 1st place at [C4MTS CHALLENGE](https://cvit.iiit.ac.in/ncvpripg2023/c4mtschallenge/#awards), [NCVPRIPG 2023](https://events.iitj.ac.in/ncvpripg2023/), [IIT Jodhpur](https://www.iitj.ac.in/).
+- 06-2023, Secured 1st place at [C4MTS CHALLENGE](https://cvit.iiit.ac.in/ncvpripg2023/c4mtschallenge/#awards), [NCVPRIPG 2023](https://events.iitj.ac.in/ncvpripg2023/).
 
 - 03-2023, Won Cash Prize Hackathon, ML4Science 2023 , GitHub repo link.
 

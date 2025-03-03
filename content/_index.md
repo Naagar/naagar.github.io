@@ -39,7 +39,7 @@ sections:
         
         Please reach out to collaborate on AI4Health and Science.
     design:
-      columns: '1'
+      columns: '2'
   # - block: collection
   #   id: papers
   #   content:
