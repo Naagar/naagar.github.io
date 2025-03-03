@@ -259,7 +259,7 @@ awards:
 
 Hi!  I am a final year PhD student under the guidance of [Prof. Girish Varma](https://girishvarma.in/) at [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT-Hyderabad](https://iiit.ac.in/), India. Previously, I have completed research internships at [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois, under the guidance of Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr David Beiser and Dr David Chestekat at College of Medicine at University of Illinois Chicago . I have also completed a research internship at School of Mathematics and Statistics, University of New South Wales Sydney, under the guidance of Prof. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh in collaberation with School of Geosciences, The University of Sydney, Australia.
 
-I hold a Btech degree in Computer Science \& Engineering from [Harcourt Butler Technical University - Kanpur](https://hbtu.ac.in/), India. I am from Greater Noida, India. I am passionate about creating and building ML ideas. My main research interests include Computer Vision, Probabilistic Generative Models, Theoretical Machine Learning, and Deep Learning.
+I hold a Btech degree in Computer Science \& Engineering from [Harcourt Butler Technical University - Kanpur](https://hbtu.ac.in/), India. I am from [Greater Noida](https://en.wikipedia.org/wiki/Greater_Noida), India. I am passionate about creating and building ML ideas. My main research interests include Computer Vision, Probabilistic Generative Models, Theoretical Machine Learning, and Deep Learning.
 
 I’m also an avid reader! Check out my collection of intriguing novels over on [Goodread](https://www.goodreads.com/review/list/48728408-sandeep-nagar?ref=nav_mybooks).
 
@@ -279,13 +279,13 @@ I’m also an avid reader! Check out my collection of intriguing novels over on 
 
 - 02-2024, Selected for [Oxford Machine Learning Summer School 2024](https://www.oxfordml.school/).
 
-- 01-2024, Selected for Research Internship , [Sony Research India, Bangalore](https://www.sonyresearchindia.com/).
+<!-- - 01-2024, Selected for Research Internship , [Sony Research India, Bangalore](https://www.sonyresearchindia.com/). -->
 
 - 09-2023, '[Adaptation of  SR SOTA for Art Restoration](https://ieeexplore.ieee.org/abstract/document/10331102)'  accepted at [IEEE ICETCI`23](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
 
-- 08-2023, Secured 1st Place in NVIDIA Competitions, ICETCI`2023.
+- 08-2023, Secured 1st Place in [NVIDIA Competitions](https://ietcint.com/user/competitions), [ICETCI`2023](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
 
-- 08-2023, Awarded one year iHub-Data PhD Fellowship.
+- 08-2023, Awarded one year [iHub-Data PhD Fellowship](https://ihub-data.iiit.ac.in/index.html).
 
 - 07-2023, I will interning at [Samsung R&D Institute-Bangalore](https://research.samsung.com/sri-b).
 
