@@ -46,6 +46,15 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-4360-8011
 
+affiliates:
+  - name: IIIT-Hyderabad
+    url: https://iiit.ac.in/  
+# add image to `assets/media/` and `featured: true` to display it on the homepage
+image:
+  filename: avatar.jpg
+  focal_point: Smart
+  preview_only: false 
+
 interests:
   - Probabilistic Generative Models
   - Theoritical Machine Learning
