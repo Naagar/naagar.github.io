@@ -268,7 +268,7 @@ awards:
 
 Hi!  I am a final-year PhD studentat at [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT-Hyderabad](https://iiit.ac.in/), India, under the guidance of [Prof. Girish Varma](https://girishvarma.in/). My research primarily focuses on Probabilistic Generative Models (Normalizing Flows), Theoretical Machine Learning, and Deep Learning, with applications in Computer Vision.
 
-I have industry experience from my semester at Samsung Research, where I worked with [Dr. Sahitya Reddy](https://scholar.google.com/citations?user=My9GRC0AAAAJ&hl=en) and [Dr. Pravin Nair](https://www.ee.iitm.ac.in/faculty/profile/pravinnair) on Generative Models for Image Super-Resolution. Additionally, I have completed research internships at:
+I have industry experience from my semester at Samsung Research, where I worked with [Dr. Sathya Reddy](https://scholar.google.com/citations?user=My9GRC0AAAAJ&hl=en) and [Dr. Pravin Nair](https://www.ee.iitm.ac.in/faculty/profile/pravinnair) on Generative Models for Image Super-Resolution. Additionally, I have completed research internships at:
 - [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois, under the guidance of Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr. David Beiser and Dr. David Chestekat at the College of Medicine at the University of Illinois Chicago.
 - School of Mathematics and Statistics, University of New South Wales Sydney, under the guidance of Prof. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh in collaboration with the School of Geosciences, The University of Sydney, Australia.
 
