@@ -29,7 +29,7 @@ summary: Keywords-- Remote Sensing, Deep Learning, Dimensionality Reduction, Sta
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

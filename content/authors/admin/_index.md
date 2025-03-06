@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Final year PhD Student 
+role: Final-year PhD Student 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -266,17 +266,25 @@ awards:
 
 ## About Me
 
-Hi!  I am a final year PhD student under the guidance of [Prof. Girish Varma](https://girishvarma.in/) at [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT-Hyderabad](https://iiit.ac.in/), India. Previously, I have completed research internships at [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois, under the guidance of Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr David Beiser and Dr David Chestekat at College of Medicine at University of Illinois Chicago . I have also completed a research internship at School of Mathematics and Statistics, University of New South Wales Sydney, under the guidance of Prof. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh in collaberation with School of Geosciences, The University of Sydney, Australia.
+Hi!  I am a final-year PhD studentat at [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT-Hyderabad](https://iiit.ac.in/), India, under the guidance of [Prof. Girish Varma](https://girishvarma.in/). My research primarily focuses on Probabilistic Generative Models (Normalizing Flows), Theoretical Machine Learning, and Deep Learning, with applications in Computer Vision.
+
+I have industry experience from my semester at Samsung Research, where I worked with [Dr. Sahitya Reddy](https://scholar.google.com/citations?user=My9GRC0AAAAJ&hl=en) and [Dr. Pravin Nair](https://www.ee.iitm.ac.in/faculty/profile/pravinnair) on Generative Models for Image Super-Resolution. Additionally, I have completed research internships at:
+- [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois, under the guidance of Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr. David Beiser and Dr. David Chestekat at the College of Medicine at the University of Illinois Chicago.
+- School of Mathematics and Statistics, University of New South Wales Sydney, under the guidance of Prof. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh in collaboration with the School of Geosciences, The University of Sydney, Australia.
+
+I hold a B.Tech degree in Computer Science \& Engineering from [Harcourt Butler Technical University - Kanpur](https://hbtu.ac.in/), India. I am from [Greater Noida](https://en.wikipedia.org/wiki/Greater_Noida), India. Beyond research, I am passionate about building and developing innovative ML solutions. I am also an avid reader—feel free to check out my collection of intriguing novels on [Goodreads](https://www.goodreads.com/review/list/48728408-sandeep-nagar?ref=nav_mybooks).
+
+ <!-- I spent one semerster at Samsung Research working with [Dr Sahtya Reddy](https://scholar.google.com/citations?user=My9GRC0AAAAJ&hl=en) and [Dr Pravin Nair](https://www.ee.iitm.ac.in/faculty/profile/pravinnair) on Generative Models for Image Super-resolution. Previously, I have completed research internships at [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois, under the guidance of Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr David Beiser and Dr David Chestekat at College of Medicine at University of Illinois Chicago. I have also completed a research internship at School of Mathematics and Statistics, University of New South Wales Sydney, under the guidance of Prof. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh in collaberation with School of Geosciences, The University of Sydney, Australia.
 
 I hold a Btech degree in Computer Science \& Engineering from [Harcourt Butler Technical University - Kanpur](https://hbtu.ac.in/), India. I am from [Greater Noida](https://en.wikipedia.org/wiki/Greater_Noida), India. I am passionate about creating and building ML ideas. My main research interests include Computer Vision, Probabilistic Generative Models, Theoretical Machine Learning, and Deep Learning.
 
-I’m also an avid reader! Check out my collection of intriguing novels over on [Goodread](https://www.goodreads.com/review/list/48728408-sandeep-nagar?ref=nav_mybooks).
+I’m also an avid reader! Check out my collection of intriguing novels over on [Goodread](https://www.goodreads.com/review/list/48728408-sandeep-nagar?ref=nav_mybooks). -->
 
 
 ## News and Updates
-- 02-2025, Awarded [ACM India-IARCS](https://www.iarcs.org.in/activities/grants.php) travel grant for attending AISTAT`2025.
+- 02-2025, Awarded [ACM India-IARCS](https://www.iarcs.org.in/activities/grants.php) travel grant for attending AISTATS`2025.
         
-- 01-2025, [Inverse-Flow](https://arxiv.org/abs/2410.14634) accepted at [AISTAT`2025](https://aistats.org/aistats2025/index.html).
+- 01-2025, [Inverse-Flow](https://arxiv.org/abs/2410.14634) accepted at [AISTATS`2025](https://aistats.org/aistats2025/index.html).
 
 - 10-2024, Pre-print [R2I-rPPG](https://arxiv.org/abs/2410.15851): Heart-rate extraction from Video.
 
@@ -311,3 +319,129 @@ I’m also an avid reader! Check out my collection of intriguing novels over on 
 - 02-2023, [FInC Flow](https://arxiv.org/abs/2301.09266) accepted at [VISAPP`23](https://www.scitepress.org/ProceedingsDetails.aspx?ID=trRHWXl/Y5o=&t=1) with oral presentations.
 
 - 02-2022, Awarded one year [iHub-Data MS Fellowship](https://ihub-data.iiit.ac.in/index.html)
+
+
+<!-- ## Research -->
+
+<!-- ## Preprints
+
+### Data Anonymization in Indian Driving Dataset using Implanting  
+**Nagar, S.**, Puttagunta, S., Varma, G.  
+*In preparation*  
+
+📄 [Paper](#)  
+
+### Inverse of Convolution for Sparse Blind Deconvolution  
+**Nagar, S.**, Varma, G.  
+*In preparation*  
+
+📄 [Paper](#)   -->
+
+<!-- --- -->
+
+<!-- # Publications   -->
+
+<!-- ## Deep Generative Models:   -->
+<!-- ### [Data Anonymization in Indian Driving Dataset using Implanting](idd_privacy.png)   -->
+
+<!-- <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="idd_privacy.png" alt="IDD Privacy" width="120" style="margin-right: 15px; border-radius: 10px;">
+    <div>
+        <h3>Data Anonymization in Indian Driving Dataset using Implanting</h3>
+        <p><strong>Authors:</strong> Nagar, S., Puttagunta, S., Varma, G.</p>
+        <p><strong>Status:</strong> In preparation</p>
+        <p>📄 [ArXiv](https://arxiv.org/abs/2410.14634)  | 💻 [projectPage](https://naagar.github.io/projectPage_InverseFlow/)</p>
+    </div>
+</div> -->
+
+<!-- ### Data Anonymization in Indian Driving Dataset using Implanting  
+**Nagar, S.**, Puttagunta, S., Varma, G.  
+*In preparation*   -->
+
+<!-- 📄 [Paper](#)   -->
+
+<!-- ### Inverse of Convolution for Sparse Blind Deconvolution  
+**Nagar, S.**, Varma, G.  
+*In preparation*   -->
+
+<!-- 📄 [Paper](#)   -->
+
+<!-- ### Parallel Backpropagation for Inverse of a Convolution with Application to Normalizing Flows  
+**Nagar, S.**, Varma, G.  
+*AISTATS 2025*   -->
+<!-- [![Paper Image](idd_privacy.png)](https://arxiv.org/abs/2410.14634) -->
+<!-- 📄 [ArXiv](https://arxiv.org/abs/2410.14634)  | 💻 [projectPage](https://naagar.github.io/projectPage_InverseFlow/) -->
+
+<!-- ### Affine-Stables: Coupling Layer-based Lightweight Autoencoder and Stable Diffusion Model for Image Super-Resolution  
+**Nagar, S.**, Dendi, SVR., Nair, P., Gadde, R. N. 
+*Under Review*  
+
+📄 [Preprint](https://scholar.google.com/citations?user=MQQy_T4AAAAJ)  
+
+### ICPR 2024 Competition on Safe Segmentation of Drive Scenes  
+Furqan, S. A., **Nagar, S.**, Varma, G.  
+*ICPR 2024*  
+
+📄 [ArXiv: 2409.05327](https://arxiv.org/abs/2409.05327) *(Oral)* | 💻 [Competition](https://mobility.iiit.ac.in/safe-seg-24/index.html)
+
+### Remote Sensing Framework for Geological Mapping via Stacked Autoencoders and Clustering  
+**Nagar, S.***, Farahbakhsh, E.*, Awange, J., Chandra, R.  
+*Advances in Space Research Journal, 2024*  
+
+📄 [DOI](https://doi.org/10.1016/j.asr.2024.09.013)  | 💻 [code](https://github.com/sydney-machine-learning/autoencoders_remotesensing)
+
+### FInC Flow: Fast Invertible Convolutions for Normalizing Flows  
+Kallappa, A., **Nagar, S.**, Varma, G.  
+*VISIGRAPP 2023*  
+
+📄 [ArXiv](https://arxiv.org/abs/2301.09266) | 💻 [ProjectPage](https://naagar.github.io/project_page_FInCFlow/) *(Oral)*  
+
+### CInC Flow: Characterizable Invertible 3×3 Convolution  
+**Nagar, S.**, Dufraisse, M., Varma, G.  
+*Workshop on Tractable Probabilistic Modeling, UAI 2021*  
+
+📄 [ArXiv](https://arxiv.org/abs/2107.01358) | 💻 [ProjectPage](https://naagar.github.io/project_page_CInCFlow/) *(Oral)*  
+
+### Automated Seed Quality Testing System using GAN and Active Learning  
+**Nagar, S.**, Pani, P., Nair, R., Varma, G.  
+*International Conference on Pattern Recognition and Machine Intelligence (PReMI) 2021*  
+
+📄 [ArXiv](https://arxiv.org/abs/2110.00777) | 💻 [Code](https://github.com/Naagar/Seeds_Classification) *(Oral)*  | [Introduced Conr Seeds dataset](https://naagar.github.io/cornseedsdataset)
+
+---
+
+## Computer Vision and Applications:  
+
+### R2I-rPPG: Robust Region of Interest Selection for Remote PPG  
+**Nagar, S.**, Alam M., Beiser, D., Ahuja, N.  
+*Under Review*  
+
+📄 [ArXiv](https://arxiv.org/abs/2410.15851)  
+
+### Unlocking Simple Features to Predict DFT Spin State Gaps of 3D Metal Complexes using Machine Learning  
+Ray, A., **Nagar, S.**, Varma, G., Paul, A.  
+*MTMM-SIMS 2024*  
+
+### Adaptation of the Super Resolution SOTA for Art Restoration in Camera Capture Images  
+**Nagar, S.**, Bala, A., Patnaik, S. A.  
+*IEEE-ICETCI 2023*  
+
+📄 [DOI](https://ieeexplore.ieee.org/document/10331102) | 💻 [Code](https://github.com/Naagar/art_restoration_DM) *(Oral)*  
+
+### C4MTS: Challenge on Categorizing Missing Traffic Signs from Contextual Cues  
+Gupta, V., **Nagar, S.**,Choudhury, S. P., Singh, R., Jamwal, A., Gupta, V., Subramanian A., Jawahar, C.V., and Saluja, R  
+*NCVPRIPG 2023*
+
+📄 [Springer Link](https://link.springer.com/book/9789819752119) *(Oral)*  
+
+### Remote Heart Rate Estimation from Videos for Minority Populations in Emergency Department  
+**Nagar, S.**, Nagar, S. Alam, M., Chatterjee, M., Patel, K., Khosla, S., Harvill, J., Johnson, M. A. H., Chestek, D., Ahuja, N., Beiser, D.
+*Illinois College of Emergency Physicians, Spring Symposium 2022* *(Abstract, Oral Presentation)*  
+
+### Respiratory Rate Estimation from Audio Signals from a Public Sound Database  
+Chatterjee, M., **Nagar, S.**, Khosla, S., Harvill, J., Johnson, M. A. H., Chestek, D., Ahuja, N., Beiser, D.  
+*Illinois College of Emergency Physicians, Spring Symposium 2022* *(Abstract, Oral Presentation)*  
+
+### Respiratory Rate Estimation from Videos for Minority Populations in Emergency Department  
+M., Chatterjee, M., Patel, K., **Nagar, S.**, Khosla, S., Harvill, J., Johnson, M. A. H., Chestek, D., Ahuja, N., Beiser, D.
+*Illinois College of Emergency Physicians, Spring Symposium 2022* *(Abstract, Oral Presentation)*   -->

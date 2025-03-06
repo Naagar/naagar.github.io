@@ -1,12 +1,12 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Naagar"
 date: 2022-10-24
 type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "1rem"
 
 sections:
   - block: resume-biography-3
@@ -26,20 +26,20 @@ sections:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
-            brightness: 1.0
+            brightness: 8.0
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Primarily focuses on generative models, with a particular emphasis on probabilistic generative models, normalizing flows, and their theoretical foundations. My research work spans developing fast and efficient invertible convolutional networks for generative modeling, exploring applications in diverse domains such as molecular design, image generation, and medical imaging. I am interested in creating interpretable and computationally efficient machine learning models that can learn complex data distributions, with a strong theoretical grounding in probabilistic methods. My research aims to advance the understanding and practical implementation of generative models, bridging theoretical innovations with real-world applications across computer vision, healthcare, and scientific domains.
-        
-        Please reach out to collaborate on AI4Health and Science.
-    design:
-      columns: '2'
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       I focus on **probabilistic generative models**, particularly **normalizing flows** and their theoretical foundations. My work includes developing **efficient invertible convolutional networks** for generative modeling, with applications in **molecular design, image generation, and medical imaging**. I aim to create **interpretable, computationally efficient models** that bridge theoretical innovations with real-world applications in **computer vision, healthcare, and science**.
+
+  #       **Open to collaborations in AI for Health and Science!**
+  #   design:
+  #     columns: '1'
   # - block: collection
   #   id: papers
   #   content:
