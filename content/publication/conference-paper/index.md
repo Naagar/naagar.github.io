@@ -82,10 +82,10 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
 
----
+<!-- ---
 title: 'CIinC Flow: Characterizable Invertible 3×3 Convolution'
 
 # Authors
@@ -270,7 +270,7 @@ url_video: ''
 
 # Featured image
 image:
-  caption: 'Image credit: [**Unsplash**](https://naagar.github.io/projectPage_InverseFlow/static/images/data_anonymization.jpg)'
+  caption: 'Image credit: [**Unsplash**](https://naagar.github.io/projectPage_data_anonymization.jpg)'
   focal_point: ''
   preview_only: false
 
@@ -350,4 +350,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

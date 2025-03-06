@@ -29,8 +29,369 @@
 &lt;/span&gt;
   &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
 &lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+&lt;!-- ---
+title: &#39;CIinC Flow: Characterizable Invertible 3×3 Convolution&#39;
+
+# Authors
+authors:
+  - Sandeep Nagar
+  - Marius Dufraisse
+  - Girish Varma
+
+# Author notes (optional)
+author_notes:
+  - &#39;Machine Learning Lab, IIIT-Hyderabad&#39;
+  - &#39;Machine Learning Lab, IIIT-Hyderabad&#39;
+  - &#39;Machine Learning Lab, IIIT-Hyderabad&#39;
+
+date: &#39;2021-05-03T00:00:00Z&#39;
+doi: &#39;&#39;
+
+# Schedule page publish date (NOT publication&#39;s date).
+publishDate: &#39;2021-06-01T00:00:00Z&#39;
+
+# Publication type.
+publication_types: [&#39;paper-conference&#39;]
+
+# Publication name and optional abbreviated publication name.
+publication: In *The 4th Workshop on Tractable Probabilistic Modeling*
+publication_short: In *TPM*
+
+abstract: This paper introduces CIinC Flow, a novel approach for characterizable invertible 3×3 convolutions. The method is designed to improve the efficiency and performance of normalizing flows.
+
+# Summary. An optional shortened abstract.
+summary: Characterizable Invertible 3×3 Convolution for Normalizing Flows.
+
+tags:
+  - Normalizing Flow models
+
+# Display this page in the Featured widget?
+featured: true
+
+url_pdf: &#39;https://openreview.net/forum?id=kl1ds_AeLRM&#39;
+url_code: &#39;&#39;
+url_dataset: &#39;&#39;
+url_poster: &#39;&#39;
+url_project: &#39;&#39;
+url_slides: &#39;&#39;
+url_source: &#39;https://openreview.net/forum?id=kl1ds_AeLRM&#39;
+url_video: &#39;&#39;
+
+# Featured image
+image:
+  caption: &#39;Image credit: [**Unsplash**](https://naagar.github.io/projectPage_InverseFlow/static/images/cinc_flow.jpg)&#39;
+  focal_point: &#39;&#39;
+  preview_only: false
+
+projects: []
+---
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+--- 
+
+title: &#39;FInC Flow: Fast and Invertible k × k Convolutions for Normalizing Flows&#39;
+
+# Authors
+authors:
+  - Aditya Kallappa
+  - Sandeep Nagar
+  - Girish Varma
+
+# Author notes (optional)
+author_notes:
+  - &#39;Machine Learning Lab, IIIT-Hyderabad&#39;
+  - &#39;Machine Learning Lab, IIIT-Hyderabad&#39;
+  - &#39;Machine Learning Lab, IIIT-Hyderabad&#39;
+
+date: &#39;2023-03-05T00:00:00Z&#39;
+doi: &#39;10.5220/0011876600003417&#39;
+
+# Schedule page publish date (NOT publication&#39;s date).
+publishDate: &#39;2023-04-01T00:00:00Z&#39;
+
+# Publication type.
+publication_types: [&#39;paper-conference&#39;]
+
+# Publication name and optional abbreviated publication name.
+publication: In *Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2023) - Volume 5: VISAPP*
+publication_short: In *VISAPP*
+
+abstract: This paper presents FInC Flow, a fast and invertible k × k convolution method for normalizing flows. The approach significantly improves the efficiency of normalizing flows by leveraging fast convolution techniques.
+
+# Summary. An optional shortened abstract.
+summary: Fast and Invertible k × k Convolutions for Normalizing Flows.
+
+tags:
+  - Normalizing Flow models
+
+# Display this page in the Featured widget?
+featured: true
+
+url_pdf: &#39;&#39;
+url_code: &#39;&#39;
+url_dataset: &#39;&#39;
+url_poster: &#39;&#39;
+url_project: &#39;&#39;
+url_slides: &#39;&#39;
+url_source: &#39;&#39;
+url_video: &#39;&#39;
+
+# Featured image
+image:
+  caption: &#39;Image credit: [**Unsplash**](https://naagar.github.io/projectPage_InverseFlow/static/images/finc_flow.jpg)&#39;
+  focal_point: &#39;&#39;
+  preview_only: false
+
+projects: []
+---
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+---
+title: &#39;Data anonymization in Indian Driving Dataset using Impanting&#39;
+
+# Authors
+authors:
+  - Sandeep Nagar
+  - S. Puttagunta
+  - Girish Varma
+
+# Author notes (optional)
+author_notes:
+  - &#39;Machine Learning Lab, IIIT-Hyderabad&#39;
+  - &#39;Machine Learning Lab, IIIT-Hyderabad&#39;
+  - &#39;Machine Learning Lab, IIIT-Hyderabad&#39;
+
+date: &#39;2024-05-19T00:00:00Z&#39;
+doi: &#39;&#39;
+
+# Schedule page publish date (NOT publication&#39;s date).
+publishDate: &#39;2024-06-01T00:00:00Z&#39;
+
+# Publication type.
+publication_types: [&#39;paper-conference&#39;]
+
+# Publication name and optional abbreviated publication name.
+publication: In *Preparation*
+publication_short: In *Preparation*
+
+abstract: This paper discusses data anonymization techniques in the Indian Driving Dataset using implanting methods.
+
+# Summary. An optional shortened abstract.
+summary: Data anonymization in Indian Driving Dataset using Impanting.
+
+tags:
+  - Data Anonymization
+  - Driving Dataset
+
+# Display this page in the Featured widget?
+featured: true
+
+url_pdf: &#39;&#39;
+url_code: &#39;&#39;
+url_dataset: &#39;&#39;
+url_poster: &#39;&#39;
+url_project: &#39;&#39;
+url_slides: &#39;&#39;
+url_source: &#39;&#39;
+url_video: &#39;&#39;
+
+# Featured image
+image:
+  caption: &#39;Image credit: [**Unsplash**](https://naagar.github.io/projectPage_data_anonymization.jpg)&#39;
+  focal_point: &#39;&#39;
+  preview_only: false
+
+projects: []
+---
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+---
+title: &#39;Inverse of Convolution for Sparse Blind Deconvolution&#39;
+
+# Authors
+authors:
+  - Sandeep Nagar
+  - Girish Varma
+
+# Author notes (optional)
+author_notes:
+  - &#39;Machine Learning Lab, IIIT-Hyderabad&#39;
+  - &#39;Machine Learning Lab, IIIT-Hyderabad&#39;
+
+date: &#39;2024-05-19T00:00:00Z&#39;
+doi: &#39;&#39;
+
+# Schedule page publish date (NOT publication&#39;s date).
+publishDate: &#39;2024-06-01T00:00:00Z&#39;
+
+# Publication type.
+publication_types: [&#39;paper-conference&#39;]
+
+# Publication name and optional abbreviated publication name.
+publication: In *Preparation*
+publication_short: In *Preparation*
+
+abstract: This paper discusses the inverse of convolution for sparse blind deconvolution.
+
+# Summary. An optional shortened abstract.
+summary: Inverse of Convolution for Sparse Blind Deconvolution.
+
+tags:
+  - Sparse Blind Deconvolution
+
+# Display this page in the Featured widget?
+featured: true
+
+url_pdf: &#39;&#39;
+url_code: &#39;&#39;
+url_dataset: &#39;&#39;
+url_poster: &#39;&#39;
+url_project: &#39;&#39;
+url_slides: &#39;&#39;
+url_source: &#39;&#39;
+url_video: &#39;&#39;
+
+# Featured image
+image:
+  caption: &#39;Image credit: [**Unsplash**](https://naagar.github.io/projectPage_InverseFlow/static/images/sparse_blind_deconvolution.jpg)&#39;
+  focal_point: &#39;&#39;
+  preview_only: false
+
+projects: []
+---
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;</description>
     </item>
     
     <item>

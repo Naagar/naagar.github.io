@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 2025 Me. This work is licensed under MIT'
+    notice: '© 2025 [Sandeep Nagar](https://www.linkedin.com/in/sandeepnaagar/). This work is licensed under MIT'
     license:
       enable: true
       allow_derivatives: false

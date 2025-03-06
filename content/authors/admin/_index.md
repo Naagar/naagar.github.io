@@ -282,43 +282,26 @@ I’m also an avid reader! Check out my collection of intriguing novels over on 
 
 
 ## News and Updates
-- 02-2025, Awarded [ACM India-IARCS](https://www.iarcs.org.in/activities/grants.php) travel grant for attending AISTATS`2025.
-        
-- 01-2025, [Inverse-Flow](https://arxiv.org/abs/2410.14634) accepted at [AISTATS`2025](https://aistats.org/aistats2025/index.html).
-
-- 10-2024, Pre-print [R2I-rPPG](https://arxiv.org/abs/2410.15851): Heart-rate extraction from Video.
-
-- 09-2024, Paper accepted at ICPR`24, [Competition on Safe Segmentation](https://mobility.iiit.ac.in/safe-seg-24/index.html).
-
-- 06-2024, I will be attanding [Climate Change AI Summer School 2024](https://www.climatechange.ai/events/summer_school2024).
-
-- 04-2024, We are organizing a [Comptetion on Safe Segmentation](https://mobility.iiit.ac.in/safe-seg-24/index.html) at ICPR`24.
-
-- 02-2024, Selected for [Oxford Machine Learning Summer School 2024](https://www.oxfordml.school/).
-
+- 02/2025, Awarded [ACM India-IARCS](https://www.iarcs.org.in/activities/grants.php) travel grant for attending AISTATS`2025.  
+- 01/2025, [Inverse-Flow](https://arxiv.org/abs/2410.14634) accepted at [AISTATS`2025](https://aistats.org/aistats2025/index.html).
+- 10/2024, Talk and Tutorial on Vision-Transformer, DRDO, India.
+- 10/2024, Pre-print [R2I-rPPG](https://arxiv.org/abs/2410.15851): Heart-rate extraction from Video.
+- 09/2024, Paper accepted at ICPR`24, [Competition on Safe Segmentation](https://mobility.iiit.ac.in/safe-seg-24/index.html).
+- 06/2024, I will be attanding [Climate Change AI Summer School 2024](https://www.climatechange.ai/events/summer_school2024).
+- 04/2024, We are organizing a [Comptetion on Safe Segmentation](https://mobility.iiit.ac.in/safe-seg-24/index.html) at ICPR`24.
+- 02/2024, Selected for [Oxford Machine Learning Summer School 2024](https://www.oxfordml.school/).
+- 09/2023, '[SR SOTA for Art Restoration](https://ieeexplore.ieee.org/abstract/document/10331102)'  accepted at [IEEE ICETCI`23](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
+- 08/2023, Secured 1st Place in [NVIDIA Competitions](https://ietcint.com/user/competitions), [ICETCI`2023](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
+- 08/2023, Awarded one year [iHub-Data PhD Fellowship](https://ihub-data.iiit.ac.in/index.html).
+- 07/2023, I will interning at [Samsung R&D Institute-Bangalore](https://research.samsung.com/sri-b).
+- 06/2023, Secured 1st place at [C4MTS CHALLENGE](https://cvit.iiit.ac.in/ncvpripg2023/c4mtschallenge/#awards), [NCVPRIPG 2023](https://events.iitj.ac.in/ncvpripg2023/).
+- 03/2023, Won Cash Prize Hackathon, [ML4Science 2023](https://sites.google.com/view/ml4sci/home) , GitHub repo [link](https://github.com/ML4Science2023/sMLe_pOdu/tree/main).
+- 03/2023, Talk: "Flow models for 3D molecular generation" at [ML4Science 2023](https://sites.google.com/view/ml4sci/home).
+- 03/2023, Selected for [Oxford Machine Learning Summer School 2024](https://www.oxfordml.school/).
+- 01/2023, Selected for [Research Week with Google 2023](https://sites.google.com/view/researchweek2023/home).
+- 02/2023, [FInC Flow](https://arxiv.org/abs/2301.09266) accepted at [VISAPP`23](https://www.scitepress.org/ProceedingsDetails.aspx?ID=trRHWXl/Y5o=&t=1) with oral presentations.
+- 02/2022, Awarded one year [iHub-Data MS Fellowship](https://ihub-data.iiit.ac.in/index.html)
 <!-- - 01-2024, Selected for Research Internship , [Sony Research India, Bangalore](https://www.sonyresearchindia.com/). -->
-
-- 09-2023, '[SR SOTA for Art Restoration](https://ieeexplore.ieee.org/abstract/document/10331102)'  accepted at [IEEE ICETCI`23](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
-
-- 08-2023, Secured 1st Place in [NVIDIA Competitions](https://ietcint.com/user/competitions), [ICETCI`2023](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
-
-- 08-2023, Awarded one year [iHub-Data PhD Fellowship](https://ihub-data.iiit.ac.in/index.html).
-
-- 07-2023, I will interning at [Samsung R&D Institute-Bangalore](https://research.samsung.com/sri-b).
-
-- 06-2023, Secured 1st place at [C4MTS CHALLENGE](https://cvit.iiit.ac.in/ncvpripg2023/c4mtschallenge/#awards), [NCVPRIPG 2023](https://events.iitj.ac.in/ncvpripg2023/).
-
-- 03-2023, Won Cash Prize Hackathon, ML4Science 2023 , GitHub repo link.
-
-- 03-2023, Selected for [Oxford Machine Learning Summer School 2024](https://www.oxfordml.school/).
-
-- 01-2023, Selected for [Research Week with Google 2023](https://sites.google.com/view/researchweek2023/home).
-
-- 02-2023, Talk: "Flow models for 3D molecular generation" at ML4Science 2023.
-
-- 02-2023, [FInC Flow](https://arxiv.org/abs/2301.09266) accepted at [VISAPP`23](https://www.scitepress.org/ProceedingsDetails.aspx?ID=trRHWXl/Y5o=&t=1) with oral presentations.
-
-- 02-2022, Awarded one year [iHub-Data MS Fellowship](https://ihub-data.iiit.ac.in/index.html)
 
 
 <!-- ## Research -->
