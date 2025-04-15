@@ -109,7 +109,7 @@ work:
       Mentor: Dr. [Dendi Sathya Veera Reddy](), [Dr. Pravin Nair](https://www.ee.iitm.ac.in/faculty/profile/pravinnair)
       - Manager: Mr Rajnarayan Gadde
       - Project: Image Super-resolution using Diffusion Models
-      - Paper-: Affine-StableSR: Coupling Layer based Lightweight-Autoencoder and Stable Diffusion Model for Image Super-Resolution.
+      - Paper-: Affine-StableSR: Coupling Layer-based Lightweight-Autoencoder and Stable Diffusion Model for Image Super-Resolution.
   - position: Research Assistant
     company_name: Dept. of Ophthalmology and Genomic Medicine, University of Leicester, UK.
     company_url: 'https://devalab.in/'
@@ -139,7 +139,7 @@ work:
     date_end: '2022-02-15'
     summary: |2-
       Advisor: Dr. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra), 
-      - Collabrator: Dr. Ehsan Farabaksh, University of Sydney
+      - Collaborator: Dr. Ehsan Farabaksh, University of Sydney
       - Project: Autoencoder for Geochemical Anomalies Detection and Lithological Mapping.
       - Journal: [Remote Sensing Framework for Lithological Mapping via Stacked Autoencoders and Clustering](https://doi.org/10.1016/j.asr.2024.09.013).
   - position: Research Intern
@@ -165,7 +165,7 @@ work:
       - ii.) Designing a flow for the corn seed’s automatic labeling and classification using generative
       models and active learning. 
       - iii.) Panoptic Segmentation Models for the India Driving Dataset. 
-      - iv.) Conn seed image dataset for advancement in food and agriculture development, -details, code link
+      - iv.) Conn seed image dataset for advancement in food and agriculture development -details, code link
   - position: Teaching Assistant,
     company_name: IIIt-Hyderabad
     company_url: 'https://iiit.ac.in/'
@@ -274,7 +274,7 @@ I have industry experience from my semester at Samsung Research, where I worked 
 
 I hold a B.Tech degree in Computer Science \& Engineering from [Harcourt Butler Technical University - Kanpur](https://hbtu.ac.in/), India. I am from [Greater Noida](https://en.wikipedia.org/wiki/Greater_Noida), India. Beyond research, I am passionate about building and developing innovative ML solutions. I am also an avid reader—feel free to check out my collection of intriguing novels on [Goodreads](https://www.goodreads.com/review/list/48728408-sandeep-nagar?ref=nav_mybooks).
 
- <!-- I spent one semerster at Samsung Research working with [Dr Sahtya Reddy](https://scholar.google.com/citations?user=My9GRC0AAAAJ&hl=en) and [Dr Pravin Nair](https://www.ee.iitm.ac.in/faculty/profile/pravinnair) on Generative Models for Image Super-resolution. Previously, I have completed research internships at [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois, under the guidance of Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr David Beiser and Dr David Chestekat at College of Medicine at University of Illinois Chicago. I have also completed a research internship at School of Mathematics and Statistics, University of New South Wales Sydney, under the guidance of Prof. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh in collaberation with School of Geosciences, The University of Sydney, Australia.
+ <!-- I spent one semester at Samsung Research working with [Dr. Sahtya Reddy](https://scholar.google.com/citations?user=My9GRC0AAAAJ&hl=en) and [Dr. Pravin Nair](https://www.ee.iitm.ac.in/faculty/profile/pravinnair) on Generative Models for Image Super-resolution. Previously, I have completed research internships at [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois, under the guidance of Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr. David Beiser and Dr. David Chestekat at College of Medicine at the University of Illinois Chicago. I have also completed a research internship at the School of Mathematics and Statistics, University of New South Wales Sydney, under the guidance of Prof. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh in collaboration with School of Geosciences, The University of Sydney, Australia.
 
 I hold a Btech degree in Computer Science \& Engineering from [Harcourt Butler Technical University - Kanpur](https://hbtu.ac.in/), India. I am from [Greater Noida](https://en.wikipedia.org/wiki/Greater_Noida), India. I am passionate about creating and building ML ideas. My main research interests include Computer Vision, Probabilistic Generative Models, Theoretical Machine Learning, and Deep Learning.
 
@@ -282,26 +282,28 @@ I’m also an avid reader! Check out my collection of intriguing novels over on 
 
 
 ## News and Updates
+- 04/2025, Selected for the ["COSPAR Outstanding Paper Award for Young Scientists, 2024"](https://cosparhq.cnes.fr/awards/outstanding-paper-award/) for our [Geo-SAE](https://www.sciencedirect.com/science/article/pii/S0273117724009335) paper.
+
 - 02/2025, Awarded [ACM India-IARCS](https://www.iarcs.org.in/activities/grants.php) travel grant for attending AISTATS`2025.  
 - 01/2025, [Inverse-Flow](https://arxiv.org/abs/2410.14634) accepted at [AISTATS`2025](https://aistats.org/aistats2025/index.html).
 - 10/2024, Talk and Tutorial on Vision-Transformer, DRDO, India.
 - 10/2024, Pre-print [R2I-rPPG](https://arxiv.org/abs/2410.15851): Heart-rate extraction from Video.
 - 09/2024, Paper accepted at ICPR`24, [Competition on Safe Segmentation](https://mobility.iiit.ac.in/safe-seg-24/index.html).
-- 06/2024, I will be attanding [Climate Change AI Summer School 2024](https://www.climatechange.ai/events/summer_school2024).
+- 06/2024, I will be attending [Climate Change AI Summer School 2024](https://www.climatechange.ai/events/summer_school2024).
 - 04/2024, We are organizing a [Comptetion on Safe Segmentation](https://mobility.iiit.ac.in/safe-seg-24/index.html) at ICPR`24.
 - 02/2024, Selected for [Oxford Machine Learning Summer School 2024](https://www.oxfordml.school/).
 - 09/2023, '[SR SOTA for Art Restoration](https://ieeexplore.ieee.org/abstract/document/10331102)'  accepted at [IEEE ICETCI`23](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
 - 08/2023, Secured 1st Place in [NVIDIA Competitions](https://ietcint.com/user/competitions), [ICETCI`2023](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
 - 08/2023, Awarded one year [iHub-Data PhD Fellowship](https://ihub-data.iiit.ac.in/index.html).
-- 07/2023, I will interning at [Samsung R&D Institute-Bangalore](https://research.samsung.com/sri-b).
+- 07/2023, I will be interning at [Samsung R&D Institute-Bangalore](https://research.samsung.com/sri-b).
 - 06/2023, Secured 1st place at [C4MTS CHALLENGE](https://cvit.iiit.ac.in/ncvpripg2023/c4mtschallenge/#awards), [NCVPRIPG 2023](https://events.iitj.ac.in/ncvpripg2023/).
-- 03/2023, Won Cash Prize Hackathon, [ML4Science 2023](https://sites.google.com/view/ml4sci/home) , GitHub repo [link](https://github.com/ML4Science2023/sMLe_pOdu/tree/main).
+- 03/2023, Won Cash Prize Hackathon, [ML4Science 2023](https://sites.google.com/view/ml4sci/home), GitHub repo [link](https://github.com/ML4Science2023/sMLe_pOdu/tree/main).
 - 03/2023, Talk: "Flow models for 3D molecular generation" at [ML4Science 2023](https://sites.google.com/view/ml4sci/home).
 - 03/2023, Selected for [Oxford Machine Learning Summer School 2024](https://www.oxfordml.school/).
 - 01/2023, Selected for [Research Week with Google 2023](https://sites.google.com/view/researchweek2023/home).
 - 02/2023, [FInC Flow](https://arxiv.org/abs/2301.09266) accepted at [VISAPP`23](https://www.scitepress.org/ProceedingsDetails.aspx?ID=trRHWXl/Y5o=&t=1) with oral presentations.
 - 02/2022, Awarded one year [iHub-Data MS Fellowship](https://ihub-data.iiit.ac.in/index.html)
-<!-- - 01-2024, Selected for Research Internship , [Sony Research India, Bangalore](https://www.sonyresearchindia.com/). -->
+<!-- - 01-2024, Selected for Research Internship, [Sony Research India, Bangalore](https://www.sonyresearchindia.com/). -->
 
 
 <!-- ## Research -->
@@ -412,7 +414,7 @@ Ray, A., **Nagar, S.**, Varma, G., Paul, A.
 📄 [DOI](https://ieeexplore.ieee.org/document/10331102) | 💻 [Code](https://github.com/Naagar/art_restoration_DM) *(Oral)*  
 
 ### C4MTS: Challenge on Categorizing Missing Traffic Signs from Contextual Cues  
-Gupta, V., **Nagar, S.**,Choudhury, S. P., Singh, R., Jamwal, A., Gupta, V., Subramanian A., Jawahar, C.V., and Saluja, R  
+Gupta, V., **Nagar, S.**, Choudhury, S. P., Singh, R., Jamwal, A., Gupta, V., Subramanian A., Jawahar, C.V., and Saluja, R  
 *NCVPRIPG 2023*
 
 📄 [Springer Link](https://link.springer.com/book/9789819752119) *(Oral)*  
