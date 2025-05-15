@@ -1,5 +1,5 @@
 ---
-title: "Provate IDD: "
+title: "Private IDD: "
 authors: 
   - Sandeep Nagar
   - Siya P
@@ -14,7 +14,7 @@ publishDate: "2025-05-01T00:00:00Z"
 ---
 
 ---
-title: "Ongoing Project: Sparce Blind Deconvolution"
+title: "Ongoing Project: Sparse Blind Deconvolution"
 authors:
 - Sandeep Nagar
 date: "2025-05-07T00:00:00Z"
@@ -35,7 +35,7 @@ publication_short: "preprint"
 abstract: ongoing work
 
 # Summary. An optional shortened abstract.
-summary: current research project on fast and effecient image debluring
+Summary: Current research project on fast and efficient image deblurring
 
 tags:
 - Normalizing Flow, Invertible Convolution
@@ -64,7 +64,7 @@ image:
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   E.g., `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
 # Slides (optional).
