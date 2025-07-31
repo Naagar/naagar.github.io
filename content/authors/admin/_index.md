@@ -282,7 +282,7 @@ I’m also an avid reader! Check out my collection of intriguing novels over on 
 
 
 ## News and Updates
-- 07/2025, Started my PostDoc at AI-IDT Lab, TU Munich under the supervision of Prof. [Benedikt Wiestler](https://ai-idt.github.io/) and Prof. [Anke Meyer-Baese](https://www.sc.fsu.edu/people?uid=ameyerbaese), Florida State University. 
+- 07/2025, Started my Postdoctoral position at the [AI-IDT Lab, TU Munich](https://www.kiinformatik.mri.tum.de/en) under the supervision of Prof. [Benedikt Wiestler](https://ai-idt.github.io/) and Prof. [Anke Meyer-Baese](https://www.sc.fsu.edu/people?uid=ameyerbaese) (Florida State University). 
 - 04/2025, Selected for the ["COSPAR Outstanding Paper Award for Young Scientists, 2024"](https://cosparhq.cnes.fr/awards/outstanding-paper-award/) for our [Geo-SAE](https://www.sciencedirect.com/science/article/pii/S0273117724009335) paper.
 - 02/2025, Awarded [ACM India-IARCS](https://www.iarcs.org.in/activities/grants.php) travel grant for attending AISTATS`2025.  
 - 01/2025, [Inverse-Flow](https://arxiv.org/abs/2410.14634) accepted at [AISTATS`2025](https://aistats.org/aistats2025/index.html).
