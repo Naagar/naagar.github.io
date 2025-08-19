@@ -75,7 +75,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://researchweb.iiit.ac.in/~sandeep.nagar'
-  - area: BTech in Computer Science & Engineering
+  - area: B.Tech in Computer Science & Engineering
     institution: Harcourt Butler Technological University - Kanpur, India
     date_start: 2013-08-01
     date_end: 2017-05-15
@@ -149,7 +149,7 @@ work:
     date_start: 2021-06-01
     date_end: '2021-10-15'
     summary: |2-
-      Advisor: Dr. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr David Beiser, College of Medicine at UIChicago and Dr David Chestekat, UIUC
+      Advisor: Dr. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr David Beiser, College of Medicine at University of Illinois at Chicago, and Dr David Chestekat, UIUC
       - Project: Remote Sensing of Physiological Measurements Using Camera.
       - Paper: R2I-rPPG: Robust Region of Interest Selection for the Remote PPG.
   - position: Research Assistant
@@ -167,7 +167,7 @@ work:
       - iii.) Panoptic Segmentation Models for the India Driving Dataset. 
       - iv.) Conn seed image dataset for advancement in food and agriculture development -details, code link
   - position: Teaching Assistant,
-    company_name: IIIt-Hyderabad
+    company_name: IIIT-Hyderabad
     company_url: 'https://iiit.ac.in/'
     company_logo: 'https://static.talentsprint.com/ts_drupal/talentsprint/images/logo.webp'
     date_start: 2019-01-01
@@ -251,7 +251,7 @@ awards:
       a model capable of effectively restoring deteriorated images of art pieces. The goal is to create
       An automated solution that can enhance and reconstruct degraded artworks, improving their
       visual quality while preserving their original characteristics. The model should handle a
-      diverse range of deterioration types, including but not limited to noise, blur, scratches, fading,
+      diverse range of deterioration types, including but not limited to noise, blur, scratches, and fading,
       and other common forms of degradation.
   - title: Awarded one-year iHub-Data PhD Fellowship
     url: https://ihub-data.iiit.ac.in/index.html
@@ -269,8 +269,8 @@ awards:
 Hi!  I am a final-year PhD student at [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT-Hyderabad](https://iiit.ac.in/), India, under the guidance of [Prof. Girish Varma](https://girishvarma.in/). My research primarily focuses on Probabilistic Generative Models (Normalizing Flows), Theoretical Machine Learning, and Deep Learning, with applications in Computer Vision.
 
 I have industry experience from my semester at Samsung Research, where I worked with [Dr. Sathya Reddy](https://scholar.google.com/citations?user=My9GRC0AAAAJ&hl=en) and [Dr. Pravin Nair](https://www.ee.iitm.ac.in/faculty/profile/pravinnair) on Generative Models for Image Super-Resolution. Additionally, I have completed research internships at:
-- [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois, under the guidance of Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr. David Beiser and Dr. David Chestekat at the College of Medicine at the University of Illinois, Chicago.
-- School of Mathematics and Statistics, University of New South Wales, Sydney, under the guidance of Prof. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh in collaboration with the School of Geosciences, The University of Sydney, Australia.
+- [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois (UIUC), under the guidance of Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr. David Beiser and Dr. David Chestekat at the College of Medicine at the University of Illinois, Chicago.
+- School of Mathematics and Statistics, University of New South Wales, Sydney, under the guidance of Prof. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh, in collaboration with the School of Geosciences, The University of Sydney, Australia.
 
 I hold a B.Tech degree in Computer Science \& Engineering from [Harcourt Butler Technical University - Kanpur](https://hbtu.ac.in/), India. I am from [Greater Noida](https://en.wikipedia.org/wiki/Greater_Noida), India. Beyond research, I am passionate about building and developing innovative ML solutions. I am also an avid reader; feel free to check out my collection of intriguing novels on [Goodreads](https://www.goodreads.com/review/list/48728408-sandeep-nagar?ref=nav_mybooks).
 
