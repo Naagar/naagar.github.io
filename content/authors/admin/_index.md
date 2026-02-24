@@ -238,7 +238,7 @@ awards:
     url: https://www.iarcs.org.in/activities/grants.php
     date: '2025-02-24'
     Awardee: ACM
-    # icon: coursera
+    # icon: Coursera
     summary: |
       ACM India-IARCS travel grants are intended for work directly related to computer science.
   - title: Won 1st Place in NVIDIA Competitions, ICETCI 2023
@@ -266,7 +266,7 @@ awards:
 
 ## About Me
 
-Hi!  I am a final-year PhD student at [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT-Hyderabad](https://iiit.ac.in/), India, under the guidance of [Prof. Girish Varma](https://girishvarma.in/). My research primarily focuses on Probabilistic Generative Models (Normalizing Flows), Theoretical Machine Learning, and Deep Learning, with applications in Computer Vision.
+Hi (👋),  I am a PostDoc at [IAS, TU Munich](https://www.ias.tum.de/ias/start/) under the supervision of [Prof. Bene](https://www.professoren.tum.de/wiestler-benedikt) and [Prof Anke](https://www.sc.fsu.edu/people?uid=ameyerbaese) (Florida State University). I completed my PhD at the [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT-Hyderabad](https://iiit.ac.in/), India, under the guidance of [Prof. Girish Varma](https://girishvarma.in/). My research primarily focuses on Probabilistic Generative Models (Normalizing Flows), Theoretical Machine Learning, and Deep Learning, with applications in Computer Vision.
 
 I have industry experience from my semester at Samsung Research, where I worked with [Dr. Sathya Reddy](https://scholar.google.com/citations?user=My9GRC0AAAAJ&hl=en) and [Dr. Pravin Nair](https://www.ee.iitm.ac.in/faculty/profile/pravinnair) on Generative Models for Image Super-Resolution. Additionally, I have completed research internships at:
 - [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois (UIUC), under the guidance of Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr. David Beiser and Dr. David Chestekat at the College of Medicine at the University of Illinois, Chicago.
