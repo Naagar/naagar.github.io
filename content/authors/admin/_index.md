@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Final-year PhD Student 
+role: PostDoc, IAS-TU Munich 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
