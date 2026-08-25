@@ -85,11 +85,13 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: "Selected papers below, For all papers visit [Google Scholar, click here](https://scholar.google.com/citations?user=MQQy_T4AAAAJ)."
+      text: "Recent papers below. See [all publications](/papers/) or [Google Scholar](https://scholar.google.com/citations?user=MQQy_T4AAAAJ)."
+      count: 8
       filters:
         folders:
           - publication
         exclude_featured: false
+        exclude_future: false
     design:
       view: citation
   # - block: collection
