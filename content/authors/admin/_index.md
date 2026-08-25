@@ -24,6 +24,8 @@ role: PostDoc, IAS-TU Munich
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: IAS, TU Munich
+    url: https://www.ias.tum.de/ias/start/
   - name: IIIT-Hyderabad
     url: https://iiit.ac.in/
 
@@ -59,6 +61,7 @@ interests:
   - Probabilistic Generative Models
   - Theoretical Machine Learning
   - Computer Vision
+  - Medical Imaging
   - AI4Health, Science
 
 education:
@@ -139,7 +142,7 @@ work:
     date_end: '2022-02-15'
     summary: |2-
       Advisor: Dr. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra), 
-      - Collaborator: Dr. Ehsan Farabaksh, University of Sydney
+      - Collaborator: Dr. Ehsan Farahbakhsh, University of Sydney
       - Project: Autoencoder for Geochemical Anomalies Detection and Lithological Mapping.
       - Journal: [Remote Sensing Framework for Lithological Mapping via Stacked Autoencoders and Clustering](https://doi.org/10.1016/j.asr.2024.09.013).
   - Position: Research Intern
@@ -149,7 +152,7 @@ work:
     date_start: 2021-06-01
     date_end: '2021-10-15'
     summary: |2-
-      Advisor: Dr. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr David Beiser, College of Medicine at University of Illinois at Chicago, and Dr David Chestekat, UIUC
+      Advisor: Dr. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr. David Beiser, College of Medicine at University of Illinois at Chicago, and Dr. David Chestek, UIUC
       - Project: Remote Sensing of Physiological Measurements Using Camera.
       - Paper: R2I-rPPG: Robust Region of Interest Selection for the Remote PPG.
   - position: Research Assistant
@@ -266,13 +269,13 @@ awards:
 
 ## About Me
 
-Hi (👋),  I am a PostDoc at [IAS, TU Munich](https://www.ias.tum.de/ias/start/) under the supervision of [Prof. Bene](https://www.professoren.tum.de/wiestler-benedikt) and [Prof Anke](https://www.sc.fsu.edu/people?uid=ameyerbaese) (Florida State University). I completed my PhD at the [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT-Hyderabad](https://iiit.ac.in/), India, under the guidance of [Prof. Girish Varma](https://girishvarma.in/). My research primarily focuses on Probabilistic Generative Models (Normalizing Flows), Theoretical Machine Learning, and Deep Learning, with applications in Computer Vision.
+Hi 👋 I am a postdoctoral researcher at the [Institute for Advanced Study (IAS)](https://www.ias.tum.de/ias/start/), [TU Munich](https://www.tum.de/), working in the [AI-IDT Lab](https://www.kiinformatik.mri.tum.de/en) with [Prof. Benedikt Wiestler](https://ai-idt.github.io/) and [Prof. Anke Meyer-Baese](https://www.sc.fsu.edu/people?uid=ameyerbaese) (Florida State University). I completed my PhD at the [Machine Learning Lab](https://mll.iiit.ac.in/), [IIIT-Hyderabad](https://iiit.ac.in/), advised by [Prof. Girish Varma](https://girishvarma.in/). My research focuses on probabilistic generative models—especially normalizing flows—theoretical machine learning, and deep learning, with applications in computer vision and medical imaging.
 
-I have industry experience from my semester at Samsung Research, where I worked with [Dr. Sathya Reddy](https://scholar.google.com/citations?user=My9GRC0AAAAJ&hl=en) and [Dr. Pravin Nair](https://www.ee.iitm.ac.in/faculty/profile/pravinnair) on Generative Models for Image Super-Resolution. Additionally, I have completed research internships at:
-- [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois (UIUC), under the guidance of Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr. David Beiser and Dr. David Chestekat at the College of Medicine at the University of Illinois, Chicago.
-- School of Mathematics and Statistics, University of New South Wales, Sydney, under the guidance of Prof. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh, in collaboration with the School of Geosciences, The University of Sydney, Australia.
+I spent a semester at Samsung Research with [Dr. Sathya Veera Reddy Dendi](https://scholar.google.com/citations?user=My9GRC0AAAAJ&hl=en) and [Dr. Pravin Nair](https://www.ee.iitm.ac.in/faculty/profile/pravinnair) on generative models for image super-resolution, and previously interned at:
+- [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois Urbana-Champaign, with Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/), in collaboration with Dr. David Beiser and Dr. David Chestek at the University of Illinois College of Medicine.
+- School of Mathematics and Statistics, University of New South Wales, with Prof. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh (School of Geosciences, The University of Sydney).
 
-I hold a B.Tech degree in Computer Science \& Engineering from [Harcourt Butler Technical University - Kanpur](https://hbtu.ac.in/), India. I am from [Greater Noida](https://en.wikipedia.org/wiki/Greater_Noida), India. Beyond research, I am passionate about building and developing innovative ML solutions. I am also an avid reader; feel free to check out my collection of intriguing novels on [Goodreads](https://www.goodreads.com/review/list/48728408-sandeep-nagar?ref=nav_mybooks).
+I hold a B.Tech in Computer Science \& Engineering from [Harcourt Butler Technical University, Kanpur](https://hbtu.ac.in/). I am from Greater Noida, India. Outside research, I enjoy building ML systems and reading; my book list is on [Goodreads](https://www.goodreads.com/review/list/48728408-sandeep-nagar?ref=nav_mybooks).
 
  <!-- I spent one semester at Samsung Research working with [Dr. Sahtya Reddy](https://scholar.google.com/citations?user=My9GRC0AAAAJ&hl=en) and [Dr. Pravin Nair](https://www.ee.iitm.ac.in/faculty/profile/pravinnair) on Generative Models for Image Super-resolution. Previously, I have completed research internships at [CVR Lab](https://vision.ai.illinois.edu/), University of Illinois, under the guidance of Prof. [Narendra Ahuja](https://vision.ai.illinois.edu/narendra-ahuja/) in collaboration with Dr. David Beiser and Dr. David Chestekat at the College of Medicine at the University of Illinois, Chicago. I have also completed a research internship at the School of Mathematics and Statistics, University of New South Wales, Sydney, under the guidance of Prof. [Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) and Dr. Ehsan Farahbakhsh in collaboration with the School of Geosciences, The University of Sydney, Australia.
 
@@ -282,27 +285,34 @@ I’m also an avid reader! Check out my collection of intriguing novels over on 
 
 
 ## News and Updates
-- 07/2025, Started my Postdoctoral position at the [AI-IDT Lab, TU Munich](https://www.kiinformatik.mri.tum.de/en) under the supervision of Prof. [Benedikt Wiestler](https://ai-idt.github.io/) and Prof. [Anke Meyer-Baese](https://www.sc.fsu.edu/people?uid=ameyerbaese) (Florida State University). 
+- 08/2026, Preprint [MRIComp4Flow](https://arxiv.org/abs/2608.10291): compression of 3D brain MRI for training multi-modal generative models.
+- 03/2026, [TumorFlow](https://arxiv.org/abs/2603.04058) accepted at [MICCAI 2026](https://conferences.miccai.org/2026/en/).
+- 12/2025, PhD thesis [Fast \& Efficient Normalizing Flows and Applications of Image Generative Models](https://arxiv.org/abs/2512.04039) is now available.
+- 10/2025, [3D brain tumor MRI synthesis](https://arxiv.org/abs/2510.09365) accepted at BraTS-Lighthouse @ [MICCAI 2025](https://conferences.miccai.org/2025/en/).
+- 10/2025, Paper published in [Physical Chemistry Chemical Physics](https://doi.org/10.1039/D5CP02155C): leveraging high-spin DFT features to predict spin-state gaps in 3d transition metal complexes.
+- 07/2025, Started my postdoctoral position at the [AI-IDT Lab, TU Munich](https://www.kiinformatik.mri.tum.de/en) with Prof. [Benedikt Wiestler](https://ai-idt.github.io/) and Prof. [Anke Meyer-Baese](https://www.sc.fsu.edu/people?uid=ameyerbaese) (Florida State University).
 - 04/2025, Selected for the ["COSPAR Outstanding Paper Award for Young Scientists, 2024"](https://cosparhq.cnes.fr/awards/outstanding-paper-award/) for our [Geo-SAE](https://www.sciencedirect.com/science/article/pii/S0273117724009335) paper.
-- 02/2025, Awarded [ACM India-IARCS](https://www.iarcs.org.in/activities/grants.php) travel grant for attending AISTATS`2025.  
-- 01/2025, [Inverse-Flow](https://arxiv.org/abs/2410.14634) accepted at [AISTATS`2025](https://aistats.org/aistats2025/index.html).
-- 10/2024, Talk and Tutorial on Vision-Transformer, DRDO, India.
-- 10/2024, Pre-print [R2I-rPPG](https://arxiv.org/abs/2410.15851): Heart-rate extraction from Video.
-- 09/2024, Paper accepted at ICPR`24, [Competition on Safe Segmentation](https://mobility.iiit.ac.in/safe-seg-24/index.html).
-- 06/2024, I will be attending [Climate Change AI Summer School 2024](https://www.climatechange.ai/events/summer_school2024).
-- 04/2024, We are organizing a [Competition on Safe Segmentation](https://mobility.iiit.ac.in/safe-seg-24/index.html) at ICPR`24.
+- 02/2025, Awarded an [ACM India-IARCS](https://www.iarcs.org.in/activities/grants.php) travel grant for [AISTATS 2025](https://aistats.org/aistats2025/index.html).
+- 01/2025, [Inverse-Flow](https://arxiv.org/abs/2410.14634) accepted at [AISTATS 2025](https://aistats.org/aistats2025/index.html).
+- 10/2024, Talk and tutorial on Vision Transformers, DRDO, India.
+- 10/2024, Preprint [R2I-rPPG](https://arxiv.org/abs/2410.15851): heart-rate extraction from video.
+- 09/2024, Paper accepted at [ICPR 2024](https://arxiv.org/abs/2409.05327), [Competition on Safe Segmentation](https://mobility.iiit.ac.in/safe-seg-24/index.html).
+- 09/2024, [Geo-SAE](https://doi.org/10.1016/j.asr.2024.09.013) published in *Advances in Space Research*.
+- 06/2024, Attended [Climate Change AI Summer School 2024](https://www.climatechange.ai/events/summer_school2024).
+- 04/2024, Organized a [Competition on Safe Segmentation](https://mobility.iiit.ac.in/safe-seg-24/index.html) at ICPR 2024.
 - 02/2024, Selected for [Oxford Machine Learning Summer School 2024](https://www.oxfordml.school/).
-- 09/2023, '[SR SOTA for Art Restoration](https://ieeexplore.ieee.org/abstract/document/10331102)'  accepted at [IEEE ICETCI`23](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
-- 08/2023, Secured 1st Place in [NVIDIA Competitions](https://ietcint.com/user/competitions), [ICETCI`2023](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
-- 08/2023, Awarded one year [iHub-Data PhD Fellowship](https://ihub-data.iiit.ac.in/index.html).
-- 07/2023, I will be interning at [Samsung R&D Institute-Bangalore](https://research.samsung.com/sri-b).
-- 06/2023, Secured 1st place at [C4MTS CHALLENGE](https://cvit.iiit.ac.in/ncvpripg2023/c4mtschallenge/#awards), [NCVPRIPG 2023](https://events.iitj.ac.in/ncvpripg2023/).
-- 03/2023, Won Cash Prize Hackathon, [ML4Science 2023](https://sites.google.com/view/ml4sci/home), GitHub repo [link](https://github.com/ML4Science2023/sMLe_pOdu/tree/main).
+- 09/2023, [SR SOTA for Art Restoration](https://ieeexplore.ieee.org/abstract/document/10331102) accepted at [IEEE ICETCI 2023](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
+- 08/2023, 1st place in the [NVIDIA competition](https://ietcint.com/user/competitions) at [ICETCI 2023](https://ieeexplore.ieee.org/xpl/conhome/10330803/proceeding).
+- 08/2023, Awarded a one-year [iHub-Data PhD Fellowship](https://ihub-data.iiit.ac.in/index.html).
+- 07/2023, Started an internship at [Samsung R\&D Institute, Bangalore](https://research.samsung.com/sri-b).
+- 06/2023, 1st place at the [C4MTS Challenge](https://cvit.iiit.ac.in/ncvpripg2023/c4mtschallenge/#awards), [NCVPRIPG 2023](https://events.iitj.ac.in/ncvpripg2023/).
+- 03/2023, Cash prize at the [ML4Science 2023](https://sites.google.com/view/ml4sci/home) hackathon ([code](https://github.com/ML4Science2023/sMLe_pOdu/tree/main)).
 - 03/2023, Talk: "Flow models for 3D molecular generation" at [ML4Science 2023](https://sites.google.com/view/ml4sci/home).
-- 03/2023, Selected for [Oxford Machine Learning Summer School 2024](https://www.oxfordml.school/).
+- 02/2023, [FInC Flow](https://arxiv.org/abs/2301.09266) accepted at [VISAPP 2023](https://www.scitepress.org/ProceedingsDetails.aspx?ID=trRHWXl/Y5o=&t=1) (oral).
 - 01/2023, Selected for [Research Week with Google 2023](https://sites.google.com/view/researchweek2023/home).
-- 02/2023, [FInC Flow](https://arxiv.org/abs/2301.09266) accepted at [VISAPP`23](https://www.scitepress.org/ProceedingsDetails.aspx?ID=trRHWXl/Y5o=&t=1) with oral presentations.
-- 02/2022, Awarded one year [iHub-Data MS Fellowship](https://ihub-data.iiit.ac.in/index.html)
+- 02/2022, Awarded a one-year [iHub-Data MS Fellowship](https://ihub-data.iiit.ac.in/index.html).
+- 12/2021, [Automated Seed Quality Testing](https://arxiv.org/abs/2110.00777) accepted at PReMI 2021.
+- 07/2021, [CInC Flow](https://arxiv.org/abs/2107.01358) accepted at the [4th Workshop on Tractable Probabilistic Modeling, UAI 2021](https://openreview.net/forum?id=kl1ds_AeLRM).
 <!-- - 01-2024, Selected for Research Internship, [Sony Research India, Bangalore](https://www.sonyresearchindia.com/). -->
 
 
