@@ -12,7 +12,7 @@ doi: "10.1039/D5CP02155C"
 publication_types:
   - "article-journal"
 publication: "*Physical Chemistry Chemical Physics*, 27, 20717–20725"
-publication_short: "PCCP"
+publication_short: "Physical Chemistry Chemical Physics"
 abstract: "Determining spin state energy gaps (SSE) of 3d transition metal complexes (TMCs) is a major challenge in theoretical chemistry, as high-level quantum methods, though reliable, are computationally impractical for large-scale studies. This work explores a machine learning (ML)-based approach to predict DFT adiabatic SSE gaps using descriptors derived from a single high-spin DFT calculation. Our descriptors aim to incorporate the knowledge of crystal field theory into the ML model. They include atomic energy levels of bare metal ions, natural charges of ligating atoms, d-orbital molecular orbital eigenvalues derived from a high-spin calculation, HOMO–LUMO gaps of free ligands, and simple identity-based features. We train ML models on 1434 SSE values spanning 934 complexes and demonstrate their transferability to more challenging complexes having bidentate π-bonding ligands despite being trained on simpler Werner-type monodentate complexes. We achieved a minimum MAE of 4.0 kcal mol−1 on the monodentate test set, and maintained a comparable MAE of 6.6 kcal mol−1 in the transferability assessment."
 summary: "Machine learning prediction of DFT spin-state energy gaps from high-spin electronic-structure features."
 tags:

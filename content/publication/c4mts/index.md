@@ -8,7 +8,7 @@ authors:
   - Anandita Jamwal
   - Vibhu Gupta
   - Anbumani Subramanian
-  - C. V. Jawahar
+  - "C.V. Jawahar"
   - Rohit Saluja
 date: "2023-07-02T00:00:00Z"
 publishDate: "2023-07-02T00:00:00Z"
@@ -16,7 +16,7 @@ doi: "10.1007/978-981-97-5212-6_16"
 publication_types:
   - "paper-conference"
 publication: "In *National Conference on Computer Vision, Pattern Recognition, Image Processing, and Graphics (NCVPRIPG 2023)*, pp. 141–154"
-publication_short: "In *NCVPRIPG*"
+publication_short: "National Conference on Computer Vision, Pattern Recognition, Image Processing, and Graphics (NCVPRIPG 2023)"
 abstract: "Traffic signs, despite being crucial for road safety, frequently remain absent. This challenge provides 200 scenes from a recent Missing Traffic Signs Video Dataset (MTSVD), distributed over four types of missing traffic signs: left-hand-curve, right-hand-curve, gap-in-median, and side-road-left, individually observed with their respective contextual cues. 2000 training images, each containing one of the four traffic signs with corresponding bounding boxes, are provided. Two tasks are proposed: object detection and missing traffic sign scene categorization. 54 teams registered for the challenge. Overall, the participants could improve the top-1 accuracy significantly by a margin of 31.5% over the baseline. This work presents the MTSVD in detail, challenge baselines, and the methodology undertaken by the top 2 teams."
 summary: "NCVPRIPG 2023 challenge on detecting missing traffic signs from contextual cues."
 tags:
