@@ -28,11 +28,14 @@ tags:
   - Generative Models
   - MRI
 featured: true
+links:
+  - name: "Workshop"
+    url: "https://sashimiworkshop.org/"
 url_pdf: "https://arxiv.org/pdf/2608.10291.pdf"
 url_code: "https://github.com/lisafis/MRIComp4Flow"
 url_dataset: ""
 url_poster: ""
-url_project: "https://sashimiworkshop.org/"
+url_project: ""
 url_slides: ""
 url_source: "https://arxiv.org/abs/2608.10291"
 url_video: ""
