@@ -20,14 +20,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PostDoc, IAS-TU Munich 
+role: PostDoc
 
 # Organizations/Affiliations to display in Biography block
 organizations:
   - name: IAS, Technical University of Munich
     url: https://www.ias.tum.de/ias/start/
-  - name: IIIT-Hyderabad
-    url: https://iiit.ac.in/
+  
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
