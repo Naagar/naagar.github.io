@@ -284,7 +284,7 @@ I’m also an avid reader! Check out my collection of intriguing novels over on 
 
 
 ## News and Updates
-- 08/2026, [MRIComp4Flow](https://arxiv.org/abs/2608.10291) accepted at [SASHIMI](https://sashimiworkshop.org/), a MICCAI 2026 workshop.
+- 08/2026, [MRIComp4Flow](https://naagar.github.io/CompMRI4Flow/) accepted at [SASHIMI](https://sashimiworkshop.org/), a MICCAI 2026 workshop. [Paper](https://arxiv.org/abs/2608.10291) · [Code](https://github.com/lisafis/MRIComp4Flow).
 - 03/2026, [TumorFlow](https://arxiv.org/abs/2603.04058) accepted at [MICCAI 2026](https://conferences.miccai.org/2026/en/).
 - 12/2025, PhD thesis [Fast \& Efficient Normalizing Flows and Applications of Image Generative Models](https://arxiv.org/abs/2512.04039) is now available.
 - 10/2025, [3D brain tumor MRI synthesis](https://arxiv.org/abs/2510.09365) accepted at BraTS-Lighthouse @ [MICCAI 2025](https://conferences.miccai.org/2025/en/).

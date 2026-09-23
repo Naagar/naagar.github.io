@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="MRIComp4Flow compresses 3D brain MRI for training multi-modal generative models. Accepted at SASHIMI, a MICCAI 2026 workshop.">
+  <meta property="og:title" content="MRIComp4Flow: Compression of 3D Brain MRI for Training Multi-Modal Generative Models"/>
+  <meta property="og:description" content="JPEG2000 compression of 3D brain MRI for training Wavelet Flow Matching models, accepted at SASHIMI (MICCAI 2026)."/>
+  <meta property="og:url" content="https://naagar.github.io/CompMRI4Flow/"/>
+  <meta property="og:image" content="static/images/jpeg2000.png"/>
+  <meta name="twitter:title" content="MRIComp4Flow">
+  <meta name="twitter:description" content="Compression of 3D brain MRI for training multi-modal generative models. SASHIMI, MICCAI 2026.">
+  <meta name="twitter:image" content="static/images/jpeg2000.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="keywords" content="MRIComp4Flow, MRI compression, generative models, flow matching, BraTS, SASHIMI, MICCAI">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>MRIComp4Flow</title>
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.24/dist/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.24/dist/js/bulma-carousel.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+<body>
+
+  <section class="hero is-small is-light">
+    <div class="hero-body">
+      <div class="container">
+        <div class="tabs is-centered">
+          <ul>
+            <li class="is-active"><a href="index.html">Home</a></li>
+            <li><a href="https://naagar.github.io/papers/">Publications</a></li>
+            <li><a href="https://naagar.github.io/InverseFlow/">Inverse-Flow</a></li>
+            <li><a href="https://naagar.github.io/CInCFlow/">CInC Flow</a></li>
+            <li><a href="https://naagar.github.io/FInC-Flow/">FInC Flow</a></li>
+            <li><a href="https://naagar.github.io/">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-2 publication-title">MRIComp4Flow: Compression of 3D Brain MRI for Training Multi-Modal Generative Models</h1>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">Lisa K. Fischer<sup>1,*</sup>,</span>
+              <span class="author-block">Mykhailo Riabets<sup>1,*</sup>,</span>
+              <span class="author-block">Daniel Rueckert<sup>4,5</sup>,</span>
+              <span class="author-block"><a href="https://ai-idt.github.io/" target="_blank">Benedikt Wiestler</a><sup>2,3</sup>,</span>
+              <span class="author-block"><a href="https://www.sc.fsu.edu/people?uid=ameyerbaese" target="_blank">Anke Meyer-Baese</a><sup>6,7</sup>,</span>
+              <span class="author-block"><a href="https://naagar.github.io/" target="_blank">Sandeep Nagar</a><sup>2,3,7,*</sup></span>
+            </div>
+            <div class="is-size-6 affiliation-list">
+              <span class="author-block"><sup>1</sup>Technical University of Munich</span>
+              <span class="author-block"><sup>2</sup>Munich Center for Machine Learning</span>
+              <span class="author-block"><sup>3</sup>AI for Image-Guided Diagnosis and Therapy, TUM</span><br>
+              <span class="author-block"><sup>4</sup>Chair for AI in Healthcare and Medicine, TUM University Hospital</span>
+              <span class="author-block"><sup>5</sup>Imperial College London</span>
+              <span class="author-block"><sup>6</sup>Florida State University</span>
+              <span class="author-block"><sup>7</sup>Institute for Advanced Study, TUM</span>
+              <div class="eql-cntrb"><sup>*</sup>Equal contribution</div>
+            </div>
+            <div class="is-size-5 publication-venue" style="margin: 0.75rem auto;">
+              SASHIMI: Simulation and Synthesis in Medical Imaging<br>MICCAI 2026 Workshop
+            </div>
+
+            <div class="publication-links">
+              <span class="link-block">
+                <a href="https://arxiv.org/pdf/2608.10291" target="_blank" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="fas fa-file-pdf"></i></span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="static/pdfs/poster.pdf" target="_blank" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="fas fa-image"></i></span>
+                  <span>Poster</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://github.com/lisafis/MRIComp4Flow" target="_blank" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="fab fa-github"></i></span>
+                  <span>Code</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2608.10291" target="_blank" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="ai ai-arxiv"></i></span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://sashimiworkshop.org/" target="_blank" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="fas fa-globe"></i></span>
+                  <span>Workshop</span>
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+              Large-scale multi-modal MRI datasets impose substantial storage and I/O costs, limiting the training of 3D generative models on commodity infrastructure. While lossy compression is known to preserve accuracy for discriminative segmentation networks, its effect on generative models, which must learn the full data distribution rather than a decision boundary, is unexplored. We study whether standard image codecs can effectively compress semantically rich brain tumor MRI while preserving the fidelity required to train and deploy a 3D MRI generative model. Each 3D volume is compressed with JPEG2000 or a near-lossless JPEG-LS pipeline. Next, a Wavelet Flow Matching model, conditioned on BraTS image sequences (T1n, T1c, T2, T2f), is trained on compressed data. At a 20:1 compression ratio, synthesis quality is statistically equivalent to a model trained on uncompressed data (mean PSNR 27.3 dB vs. 27.0 dB and mean SSIM 0.95 vs. 0.96 across modalities). JPEG2000 compression is a practical step toward scalable 3D MRI generative modeling without degrading synthesis quality.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3 has-text-centered">Pipeline</h2>
+      <div class="pipeline-frame">
+        <img src="static/images/pipeline.png" alt="MRIComp4Flow pipeline: BraTS volumes are compressed offline with JPEG2000 or JPEG-LS, decoded on the fly, and synthesized with a unified Wavelet Flow Matching model.">
+      </div>
+      <p class="has-text-centered mt-3">
+        BraTS volumes are compressed offline, decoded on the fly, and used to train a unified Wavelet Flow Matching synthesizer.
+      </p>
+    </div>
+  </section>
+
+  <section class="hero is-small is-light">
+    <div class="hero-body">
+      <div class="container">
+        <h2 class="title is-3 has-text-centered">Qualitative results</h2>
+        <div id="results-carousel" class="carousel results-carousel">
+          <div class="item">
+            <div class="figure-frame">
+              <img src="static/images/jpeg2000.png" alt="Original, baseline, and JPEG2000 20:1 synthesis with absolute-error maps.">
+            </div>
+            <h2 class="subtitle has-text-centered">JPEG2000 at 20:1. Synthesis stays close to the uncompressed baseline; residual error is small.</h2>
+          </div>
+          <div class="item">
+            <div class="figure-frame">
+              <img src="static/images/jpeg-ls.png" alt="Original, baseline, and JPEG-LS 20:1 synthesis with absolute-error maps.">
+            </div>
+            <h2 class="subtitle has-text-centered">JPEG-LS at 20:1. Error concentrates around high-frequency structure and the tumor boundary.</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3 has-text-centered">Poster</h2>
+      <div class="columns is-centered">
+        <div class="column is-8 poster-frame">
+          <a href="static/pdfs/poster.pdf" target="_blank">
+            <img src="static/images/poster.png" alt="SASHIMI 2026 poster for MRIComp4Flow.">
+          </a>
+          <p class="has-text-centered mt-3"><a href="static/pdfs/poster.pdf">Open the poster PDF</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section hero is-light">
+    <div class="container is-max-desktop has-text-centered">
+      <div class="logo-row">
+        <img class="logo-aiidt" src="static/images/logo-aiidt.png" alt="AI-IDT: AI for Image-Guided Diagnosis and Therapy">
+        <img src="static/images/logo-ias.jpg" alt="TUM Institute for Advanced Study">
+        <img src="static/images/logo-fsu.png" alt="Florida State University">
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>@inproceedings{fischer2026mricomp4flow,
+  title={{MRIComp4Flow}: Compression of {3D} Brain {MRI} for Training Multi-Modal Generative Models},
+  author={Fischer, Lisa K. and Riabets, Mykhailo and Rueckert, Daniel and Wiestler, Benedikt and Meyer-Baese, Anke and Nagar, Sandeep},
+  booktitle={Simulation and Synthesis in Medical Imaging ({SASHIMI}), {MICCAI} 2026 Workshop},
+  year={2026},
+  url={https://arxiv.org/abs/2608.10291}
+}</code></pre>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content">
+            <p>
+              This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
+              You are free to borrow the source code of this website; we just ask that you link back to this page in the footer.<br>
+              This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
